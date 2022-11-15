@@ -1,0 +1,20 @@
+{
+  "default_variant_handle": "abril_fatface_n4",
+  "name": "Abril Fatface",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "serif",
+      "family": "Abril Fatface",
+      "handle": "abril_fatface_n4",
+      "name": "Abril Fatface",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "abril_fatface_n4.woff",
+        "woff2": "abril_fatface_n4.woff2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+stages:
+  - build
+  - release
+
+build:
+  stage: build
+  image:
+    name: gcr.io/kaniko-project/executor:debug
+    entrypoint: [""]
+  script:
+    - echo "{\"auths\":{\"$CI_REGISTRY\":{\"username\":\"$CI_REGISTRY_USER\",\"password\":\"$CI_REGISTRY_PASSWORD\"}}}" > /kaniko/.docker/config.json
+    - /kaniko/executor --context $CI_PROJECT_DIR --dockerfile $CI_PROJECT_DIR/Dockerfile --destination $CI_REGISTRY_IMAGE:$CI_COMMIT_TAG
+  rules:
+    - changes:
+      - Dockerfile
+      when: always
+    - changes:
+      - bin/**/*
+      when: always
+
+staging-upload-fonts:
+  stage: release
+  image:
+    name: registry.gitlab.com/popshopdev/themes/fonts/global:latest
+  variables:
+    KUBERNETES_CPU_LIMIT: "3500m"
+    API_URL: https://shop-renderer.staging.fourthwall.com
+    API_USER: fourthwall
+    API_PASSWORD: fourthwallforcreators
+  script:
+    - fonts.rb version
+    - fonts.rb preview ./font_families --parallel 12 --fonts --images
+    - fonts.rb upsert ./font_families --parallel 12 --service $API_URL --service-user $API_USER --service-password $API_PASSWORD
+  only:
+    - master
+
+production-upload-fonts:
+  stage: release
+  image:
+    name: registry.gitlab.com/popshopdev/themes/fonts/global:latest
+  variables:
+    KUBERNETES_CPU_LIMIT: "3500m"
+    API_URL: https://shop-renderer.fourthwall.com
+    API_USER: fourthwall
+    API_PASSWORD: fourthwallforcreators
+  script:
+    - fonts.rb version
+    - fonts.rb preview ./font_families --parallel 12 --fonts --images
+    - fonts.rb upsert ./font_families --parallel 12 --service $API_URL --service-user $API_USER --service-password $API_PASSWORD
+  only:
+    - master
+
+preview-fonts:
+  stage: release
+  image:
+    name: registry.gitlab.com/popshopdev/themes/fonts/global:latest
+  script:
+    - fonts.rb preview ./font_families --output ./previews --parallel 10 --no-fonts --images
+  artifacts:
+    expose_as: 'font-previews'
+    paths: ['previews/']
+  variables:
+    KUBERNETES_CPU_LIMIT: "3200m"

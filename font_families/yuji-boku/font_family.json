@@ -1,0 +1,20 @@
+{
+  "default_variant_handle": "yujiboku_n4",
+  "name": "Yujiboku",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Yuji-boku",
+      "handle": "yujiboku_n4",
+      "name": "Yuji-boku",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "yujiboku_n4.woff",
+        "woff2": "yujiboku_n4.woff2"
+      }
+    }
+  ]
+}

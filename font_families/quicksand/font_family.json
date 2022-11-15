@@ -1,0 +1,59 @@
+{
+  "default_variant_handle": "quicksand_n4",
+  "name": "Quicksand",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Quicksand",
+      "handle": "quicksand_n3",
+      "name": "Quicksand Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "quicksand_n3.woff",
+        "woff2": "quicksand_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Quicksand",
+      "handle": "quicksand_n4",
+      "name": "Quicksand",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "quicksand_n4.woff",
+        "woff2": "quicksand_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Quicksand",
+      "handle": "quicksand_n5",
+      "name": "Quicksand Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "quicksand_n5.woff",
+        "woff2": "quicksand_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Quicksand",
+      "handle": "quicksand_n7",
+      "name": "Quicksand Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "quicksand_n7.woff",
+        "woff2": "quicksand_n7.woff2"
+      }
+    }
+  ]
+}

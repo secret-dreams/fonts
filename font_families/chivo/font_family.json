@@ -1,0 +1,111 @@
+{
+  "default_variant_handle": "chivo_n4",
+  "name": "Chivo",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Chivo",
+      "handle": "chivo_n3",
+      "name": "Chivo Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "chivo_n3.woff",
+        "woff2": "chivo_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Chivo",
+      "handle": "chivo_i3",
+      "name": "Chivo Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "chivo_i3.woff",
+        "woff2": "chivo_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Chivo",
+      "handle": "chivo_n4",
+      "name": "Chivo",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "chivo_n4.woff",
+        "woff2": "chivo_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Chivo",
+      "handle": "chivo_i4",
+      "name": "Chivo Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "chivo_i4.woff",
+        "woff2": "chivo_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Chivo",
+      "handle": "chivo_n7",
+      "name": "Chivo Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "chivo_n7.woff",
+        "woff2": "chivo_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Chivo",
+      "handle": "chivo_i7",
+      "name": "Chivo Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "chivo_i7.woff",
+        "woff2": "chivo_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Chivo",
+      "handle": "chivo_n9",
+      "name": "Chivo Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "chivo_n9.woff",
+        "woff2": "chivo_n9.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Chivo",
+      "handle": "chivo_i9",
+      "name": "Chivo Black Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "900",
+      "urls": {
+        "woff": "chivo_i9.woff",
+        "woff2": "chivo_i9.woff2"
+      }
+    }
+  ]
+}

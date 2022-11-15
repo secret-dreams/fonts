@@ -1,0 +1,20 @@
+{
+  "default_variant_handle": "libre_caslon_display_n4",
+  "name": "Libre Caslon Display",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "serif",
+      "family": "Libre Caslon Display",
+      "handle": "libre_caslon_display_n4",
+      "name": "Libre Caslon Display",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "libre_caslon_display_n4.woff",
+        "woff2": "libre_caslon_display_n4.woff2"
+      }
+    }
+  ]
+}

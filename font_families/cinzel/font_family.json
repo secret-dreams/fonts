@@ -1,0 +1,85 @@
+{
+  "default_variant_handle": "cinzel_n4",
+  "name": "Cinzel",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "serif",
+      "family": "Cinzel",
+      "handle": "cinzel_n4",
+      "name": "Cinzel",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "cinzel_n4.woff",
+        "woff2": "cinzel_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Cinzel",
+      "handle": "cinzel_n5",
+      "name": "Cinzel Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "cinzel_n5.woff",
+        "woff2": "cinzel_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Cinzel",
+      "handle": "cinzel_n6",
+      "name": "Cinzel Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "cinzel_n6.woff",
+        "woff2": "cinzel_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Cinzel",
+      "handle": "cinzel_n7",
+      "name": "Cinzel Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "cinzel_n7.woff",
+        "woff2": "cinzel_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Cinzel",
+      "handle": "cinzel_n8",
+      "name": "Cinzel Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "cinzel_n8.woff",
+        "woff2": "cinzel_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Cinzel",
+      "handle": "cinzel_n9",
+      "name": "Cinzel Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "cinzel_n9.woff",
+        "woff2": "cinzel_n9.woff2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "default_variant_handle": "bayon_n4",
+  "name": "Bayon",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Bayon",
+      "handle": "bayon_n4",
+      "name": "Bayon Regular",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "bayon_n4.woff",
+        "woff2": "bayon_n4.woff2"
+      }
+    }
+  ]
+}

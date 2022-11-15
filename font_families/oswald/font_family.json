@@ -1,0 +1,85 @@
+{
+  "default_variant_handle": "oswald_n4",
+  "name": "Oswald",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Oswald",
+      "handle": "oswald_n2",
+      "name": "Oswald Extra Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "200",
+      "urls": {
+        "woff": "oswald_n2.woff",
+        "woff2": "oswald_n2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Oswald",
+      "handle": "oswald_n3",
+      "name": "Oswald Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "oswald_n3.woff",
+        "woff2": "oswald_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Oswald",
+      "handle": "oswald_n4",
+      "name": "Oswald",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "oswald_n4.woff",
+        "woff2": "oswald_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Oswald",
+      "handle": "oswald_n5",
+      "name": "Oswald Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "oswald_n5.woff",
+        "woff2": "oswald_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Oswald",
+      "handle": "oswald_n6",
+      "name": "Oswald Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "oswald_n6.woff",
+        "woff2": "oswald_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Oswald",
+      "handle": "oswald_n7",
+      "name": "Oswald Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "oswald_n7.woff",
+        "woff2": "oswald_n7.woff2"
+      }
+    }
+  ]
+}

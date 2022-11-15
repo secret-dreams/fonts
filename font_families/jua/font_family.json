@@ -1,0 +1,20 @@
+{
+  "default_variant_handle": "jua_n4",
+  "name": "Jua",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Jua",
+      "handle": "jua_n4",
+      "name": "Jua",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "jua_n4.woff",
+        "woff2": "jua_n4.woff2"
+      }
+    }
+  ]
+}

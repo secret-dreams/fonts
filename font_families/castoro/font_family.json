@@ -1,0 +1,33 @@
+{
+  "default_variant_handle": "castoro_n4",
+  "name": "Castoro",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Castoro",
+      "handle": "castoro_n4",
+      "name": "Castoro",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "castoro_n4.woff",
+        "woff2": "castoro_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Castoro",
+      "handle": "castoro_i4",
+      "name": "Castoro Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "castoro_i4.woff",
+        "woff2": "castoro_i4.woff2"
+      }
+    }
+  ]
+}

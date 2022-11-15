@@ -1,0 +1,189 @@
+{
+  "default_variant_handle": "nunito_sans_n4",
+  "name": "Nunito Sans",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Nunito Sans",
+      "handle": "nunito_sans_n2",
+      "name": "Nunito Sans Extra Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "200",
+      "urls": {
+        "woff": "nunito_sans_n2.woff",
+        "woff2": "nunito_sans_n2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Nunito Sans",
+      "handle": "nunito_sans_i2",
+      "name": "Nunito Sans Extra Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "200",
+      "urls": {
+        "woff": "nunito_sans_i2.woff",
+        "woff2": "nunito_sans_i2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Nunito Sans",
+      "handle": "nunito_sans_n3",
+      "name": "Nunito Sans Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "nunito_sans_n3.woff",
+        "woff2": "nunito_sans_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Nunito Sans",
+      "handle": "nunito_sans_i3",
+      "name": "Nunito Sans Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "nunito_sans_i3.woff",
+        "woff2": "nunito_sans_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Nunito Sans",
+      "handle": "nunito_sans_n4",
+      "name": "Nunito Sans",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "nunito_sans_n4.woff",
+        "woff2": "nunito_sans_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Nunito Sans",
+      "handle": "nunito_sans_i4",
+      "name": "Nunito Sans Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "nunito_sans_i4.woff",
+        "woff2": "nunito_sans_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Nunito Sans",
+      "handle": "nunito_sans_n6",
+      "name": "Nunito Sans Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "nunito_sans_n6.woff",
+        "woff2": "nunito_sans_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Nunito Sans",
+      "handle": "nunito_sans_i6",
+      "name": "Nunito Sans Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "nunito_sans_i6.woff",
+        "woff2": "nunito_sans_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Nunito Sans",
+      "handle": "nunito_sans_n7",
+      "name": "Nunito Sans Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "nunito_sans_n7.woff",
+        "woff2": "nunito_sans_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Nunito Sans",
+      "handle": "nunito_sans_i7",
+      "name": "Nunito Sans Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "nunito_sans_i7.woff",
+        "woff2": "nunito_sans_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Nunito Sans",
+      "handle": "nunito_sans_n8",
+      "name": "Nunito Sans Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "nunito_sans_n8.woff",
+        "woff2": "nunito_sans_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Nunito Sans",
+      "handle": "nunito_sans_i8",
+      "name": "Nunito Sans Extra Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "800",
+      "urls": {
+        "woff": "nunito_sans_i8.woff",
+        "woff2": "nunito_sans_i8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Nunito Sans",
+      "handle": "nunito_sans_n9",
+      "name": "Nunito Sans Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "nunito_sans_n9.woff",
+        "woff2": "nunito_sans_n9.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Nunito Sans",
+      "handle": "nunito_sans_i9",
+      "name": "Nunito Sans Black Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "900",
+      "urls": {
+        "woff": "nunito_sans_i9.woff",
+        "woff2": "nunito_sans_i9.woff2"
+      }
+    }
+  ]
+}

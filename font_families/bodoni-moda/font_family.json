@@ -1,0 +1,163 @@
+{
+  "default_variant_handle": "bodoni_moda_n4",
+  "name": "Bodoni Moda",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "serif",
+      "family": "Bodoni Moda",
+      "handle": "bodoni_moda_n4",
+      "name": "Bodoni Moda",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "bodoni_moda_n4.woff",
+        "woff2": "bodoni_moda_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Bodoni Moda",
+      "handle": "bodoni_moda_i4",
+      "name": "Bodoni Moda Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "bodoni_moda_i4.woff",
+        "woff2": "bodoni_moda_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Bodoni Moda",
+      "handle": "bodoni_moda_n5",
+      "name": "Bodoni Moda Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "bodoni_moda_n5.woff",
+        "woff2": "bodoni_moda_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Bodoni Moda",
+      "handle": "bodoni_moda_i5",
+      "name": "Bodoni Moda Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "bodoni_moda_i5.woff",
+        "woff2": "bodoni_moda_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Bodoni Moda",
+      "handle": "bodoni_moda_n6",
+      "name": "Bodoni Moda Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "bodoni_moda_n6.woff",
+        "woff2": "bodoni_moda_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Bodoni Moda",
+      "handle": "bodoni_moda_i6",
+      "name": "Bodoni Moda Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "bodoni_moda_i6.woff",
+        "woff2": "bodoni_moda_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Bodoni Moda",
+      "handle": "bodoni_moda_n7",
+      "name": "Bodoni Moda Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "bodoni_moda_n7.woff",
+        "woff2": "bodoni_moda_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Bodoni Moda",
+      "handle": "bodoni_moda_i7",
+      "name": "Bodoni Moda Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "bodoni_moda_i7.woff",
+        "woff2": "bodoni_moda_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Bodoni Moda",
+      "handle": "bodoni_moda_n8",
+      "name": "Bodoni Moda Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "bodoni_moda_n8.woff",
+        "woff2": "bodoni_moda_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Bodoni Moda",
+      "handle": "bodoni_moda_i8",
+      "name": "Bodoni Moda Extra Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "800",
+      "urls": {
+        "woff": "bodoni_moda_i8.woff",
+        "woff2": "bodoni_moda_i8.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Bodoni Moda",
+      "handle": "bodoni_moda_n9",
+      "name": "Bodoni Moda Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "bodoni_moda_n9.woff",
+        "woff2": "bodoni_moda_n9.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Bodoni Moda",
+      "handle": "bodoni_moda_i9",
+      "name": "Bodoni Moda Black Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "900",
+      "urls": {
+        "woff": "bodoni_moda_i9.woff",
+        "woff2": "bodoni_moda_i9.woff2"
+      }
+    }
+  ]
+}

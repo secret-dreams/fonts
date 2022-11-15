@@ -1,0 +1,21 @@
+{
+  "default_variant_handle": "anton_n4",
+  "name": "Anton",
+  "provider": "google",
+  "license": "open_font_license",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Anton",
+      "handle": "anton_n4",
+      "name": "Anton Regular",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "anton_n4.woff",
+        "woff2": "anton_n4.woff2"
+      }
+    }
+  ]
+}

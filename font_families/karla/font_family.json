@@ -1,0 +1,189 @@
+{
+  "default_variant_handle": "karla_n4",
+  "name": "Karla",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Karla",
+      "handle": "karla_n2",
+      "name": "Karla Extra Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "200",
+      "urls": {
+        "woff": "karla_n2.woff",
+        "woff2": "karla_n2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Karla",
+      "handle": "karla_i2",
+      "name": "Karla Extra Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "200",
+      "urls": {
+        "woff": "karla_i2.woff",
+        "woff2": "karla_i2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Karla",
+      "handle": "karla_n3",
+      "name": "Karla Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "karla_n3.woff",
+        "woff2": "karla_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Karla",
+      "handle": "karla_i3",
+      "name": "Karla Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "karla_i3.woff",
+        "woff2": "karla_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Karla",
+      "handle": "karla_n4",
+      "name": "Karla",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "karla_n4.woff",
+        "woff2": "karla_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Karla",
+      "handle": "karla_i4",
+      "name": "Karla Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "karla_i4.woff",
+        "woff2": "karla_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Karla",
+      "handle": "karla_n5",
+      "name": "Karla Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "karla_n5.woff",
+        "woff2": "karla_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Karla",
+      "handle": "karla_i5",
+      "name": "Karla Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "karla_i5.woff",
+        "woff2": "karla_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Karla",
+      "handle": "karla_n6",
+      "name": "Karla Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "karla_n6.woff",
+        "woff2": "karla_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Karla",
+      "handle": "karla_i6",
+      "name": "Karla Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "karla_i6.woff",
+        "woff2": "karla_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Karla",
+      "handle": "karla_n7",
+      "name": "Karla Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "karla_n7.woff",
+        "woff2": "karla_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Karla",
+      "handle": "karla_i7",
+      "name": "Karla Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "karla_i7.woff",
+        "woff2": "karla_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Karla",
+      "handle": "karla_n8",
+      "name": "Karla Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "karla_n8.woff",
+        "woff2": "karla_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Karla",
+      "handle": "karla_i8",
+      "name": "Karla Extra Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "800",
+      "urls": {
+        "woff": "karla_i8.woff",
+        "woff2": "karla_i8.woff2"
+      }
+    }
+  ]
+}

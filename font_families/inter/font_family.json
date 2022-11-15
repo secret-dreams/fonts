@@ -1,0 +1,124 @@
+{
+  "default_variant_handle": "inter_n4",
+  "name": "Inter",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Inter",
+      "handle": "inter_n1",
+      "name": "Inter Thin",
+      "provider": "google",
+      "style": "normal",
+      "weight": "100",
+      "urls": {
+        "woff": "inter_n1.woff",
+        "woff2": "inter_n1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Inter",
+      "handle": "inter_n2",
+      "name": "Inter Extra Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "200",
+      "urls": {
+        "woff": "inter_n2.woff",
+        "woff2": "inter_n2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Inter",
+      "handle": "inter_n3",
+      "name": "Inter Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "inter_n3.woff",
+        "woff2": "inter_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Inter",
+      "handle": "inter_n4",
+      "name": "Inter",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "inter_n4.woff",
+        "woff2": "inter_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Inter",
+      "handle": "inter_n5",
+      "name": "Inter Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "inter_n5.woff",
+        "woff2": "inter_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Inter",
+      "handle": "inter_n6",
+      "name": "Inter Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "inter_n6.woff",
+        "woff2": "inter_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Inter",
+      "handle": "inter_n7",
+      "name": "Inter Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "inter_n7.woff",
+        "woff2": "inter_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Inter",
+      "handle": "inter_n8",
+      "name": "Inter Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "inter_n8.woff",
+        "woff2": "inter_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Inter",
+      "handle": "inter_n9",
+      "name": "Inter Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "inter_n9.woff",
+        "woff2": "inter_n9.woff2"
+      }
+    }
+  ]
+}

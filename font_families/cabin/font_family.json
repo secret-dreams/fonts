@@ -1,0 +1,111 @@
+{
+  "default_variant_handle": "cabin_n4",
+  "name": "Cabin",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Cabin",
+      "handle": "cabin_n4",
+      "name": "Cabin",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "cabin_n4.woff",
+        "woff2": "cabin_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Cabin",
+      "handle": "cabin_i4",
+      "name": "Cabin Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "cabin_i4.woff",
+        "woff2": "cabin_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Cabin",
+      "handle": "cabin_n5",
+      "name": "Cabin Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "cabin_n5.woff",
+        "woff2": "cabin_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Cabin",
+      "handle": "cabin_i5",
+      "name": "Cabin Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "cabin_i5.woff",
+        "woff2": "cabin_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Cabin",
+      "handle": "cabin_n6",
+      "name": "Cabin Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "cabin_n6.woff",
+        "woff2": "cabin_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Cabin",
+      "handle": "cabin_i6",
+      "name": "Cabin Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "cabin_i6.woff",
+        "woff2": "cabin_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Cabin",
+      "handle": "cabin_n7",
+      "name": "Cabin Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "cabin_n7.woff",
+        "woff2": "cabin_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Cabin",
+      "handle": "cabin_i7",
+      "name": "Cabin Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "cabin_i7.woff",
+        "woff2": "cabin_i7.woff2"
+      }
+    }
+  ]
+}

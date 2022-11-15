@@ -1,0 +1,20 @@
+{
+  "default_variant_handle": "monument_extended_n8",
+  "name": "Monument Extended",
+  "provider": "fourthwall",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Monument Extended",
+      "handle": "monument_extended_n8",
+      "name": "Monument Extended Ultra Bold",
+      "provider": "fourthwall",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "monument_extended_n8.woff",
+        "woff2": "monument_extended_n8.woff2"
+      }
+    }
+  ]
+}

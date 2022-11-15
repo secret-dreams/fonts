@@ -1,0 +1,31 @@
+source 'https://rubygems.org'
+
+# Modern ruby loader
+# gem 'zeitwerk', require: false
+
+# CLI framework
+gem 'dry-cli'
+
+# Network clients
+gem 'faraday'
+gem 'http'
+gem 'down'
+
+# Parallel execution
+gem 'parallel'
+gem 'ruby-progressbar'
+
+# Retries
+gem 'retriable'
+
+# Extensions
+gem 'activesupport'
+
+# Image manipulation
+gem 'mini_magick'
+
+# Assertions
+gem 'minitest', '5.13.0'
+
+# Debugging
+gem 'pry'

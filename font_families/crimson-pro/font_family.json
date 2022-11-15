@@ -1,0 +1,215 @@
+{
+  "default_variant_handle": "crimson_pro_n4",
+  "name": "Crimson Pro",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "serif",
+      "family": "Crimson Pro",
+      "handle": "crimson_pro_n2",
+      "name": "Crimson Pro Extra Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "200",
+      "urls": {
+        "woff": "crimson_pro_n2.woff",
+        "woff2": "crimson_pro_n2.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Crimson Pro",
+      "handle": "crimson_pro_i2",
+      "name": "Crimson Pro Extra Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "200",
+      "urls": {
+        "woff": "crimson_pro_i2.woff",
+        "woff2": "crimson_pro_i2.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Crimson Pro",
+      "handle": "crimson_pro_n3",
+      "name": "Crimson Pro Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "crimson_pro_n3.woff",
+        "woff2": "crimson_pro_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Crimson Pro",
+      "handle": "crimson_pro_i3",
+      "name": "Crimson Pro Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "crimson_pro_i3.woff",
+        "woff2": "crimson_pro_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Crimson Pro",
+      "handle": "crimson_pro_n4",
+      "name": "Crimson Pro",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "crimson_pro_n4.woff",
+        "woff2": "crimson_pro_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Crimson Pro",
+      "handle": "crimson_pro_i4",
+      "name": "Crimson Pro Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "crimson_pro_i4.woff",
+        "woff2": "crimson_pro_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Crimson Pro",
+      "handle": "crimson_pro_n5",
+      "name": "Crimson Pro Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "crimson_pro_n5.woff",
+        "woff2": "crimson_pro_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Crimson Pro",
+      "handle": "crimson_pro_i5",
+      "name": "Crimson Pro Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "crimson_pro_i5.woff",
+        "woff2": "crimson_pro_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Crimson Pro",
+      "handle": "crimson_pro_n6",
+      "name": "Crimson Pro Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "crimson_pro_n6.woff",
+        "woff2": "crimson_pro_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Crimson Pro",
+      "handle": "crimson_pro_i6",
+      "name": "Crimson Pro Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "crimson_pro_i6.woff",
+        "woff2": "crimson_pro_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Crimson Pro",
+      "handle": "crimson_pro_n7",
+      "name": "Crimson Pro Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "crimson_pro_n7.woff",
+        "woff2": "crimson_pro_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Crimson Pro",
+      "handle": "crimson_pro_i7",
+      "name": "Crimson Pro Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "crimson_pro_i7.woff",
+        "woff2": "crimson_pro_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Crimson Pro",
+      "handle": "crimson_pro_n8",
+      "name": "Crimson Pro Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "crimson_pro_n8.woff",
+        "woff2": "crimson_pro_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Crimson Pro",
+      "handle": "crimson_pro_i8",
+      "name": "Crimson Pro Extra Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "800",
+      "urls": {
+        "woff": "crimson_pro_i8.woff",
+        "woff2": "crimson_pro_i8.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Crimson Pro",
+      "handle": "crimson_pro_n9",
+      "name": "Crimson Pro Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "crimson_pro_n9.woff",
+        "woff2": "crimson_pro_n9.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Crimson Pro",
+      "handle": "crimson_pro_i9",
+      "name": "Crimson Pro Black Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "900",
+      "urls": {
+        "woff": "crimson_pro_i9.woff",
+        "woff2": "crimson_pro_i9.woff2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "default_variant_handle": "manrope_n4",
+  "name": "Manrope",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Manrope",
+      "handle": "manrope_n2",
+      "name": "Manrope Extra Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "200",
+      "urls": {
+        "woff": "manrope_n2.woff",
+        "woff2": "manrope_n2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Manrope",
+      "handle": "manrope_n3",
+      "name": "Manrope Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "manrope_n3.woff",
+        "woff2": "manrope_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Manrope",
+      "handle": "manrope_n4",
+      "name": "Manrope",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "manrope_n4.woff",
+        "woff2": "manrope_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Manrope",
+      "handle": "manrope_n5",
+      "name": "Manrope Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "manrope_n5.woff",
+        "woff2": "manrope_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Manrope",
+      "handle": "manrope_n6",
+      "name": "Manrope Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "manrope_n6.woff",
+        "woff2": "manrope_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Manrope",
+      "handle": "manrope_n7",
+      "name": "Manrope Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "manrope_n7.woff",
+        "woff2": "manrope_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Manrope",
+      "handle": "manrope_n8",
+      "name": "Manrope Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "manrope_n8.woff",
+        "woff2": "manrope_n8.woff2"
+      }
+    }
+  ]
+}

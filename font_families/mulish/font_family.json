@@ -1,0 +1,215 @@
+{
+  "default_variant_handle": "mulish_n4",
+  "name": "Mulish",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Mulish",
+      "handle": "mulish_n2",
+      "name": "Mulish Extra Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "200",
+      "urls": {
+        "woff": "mulish_n2.woff",
+        "woff2": "mulish_n2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Mulish",
+      "handle": "mulish_i2",
+      "name": "Mulish Extra Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "200",
+      "urls": {
+        "woff": "mulish_i2.woff",
+        "woff2": "mulish_i2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Mulish",
+      "handle": "mulish_n3",
+      "name": "Mulish Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "mulish_n3.woff",
+        "woff2": "mulish_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Mulish",
+      "handle": "mulish_i3",
+      "name": "Mulish Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "mulish_i3.woff",
+        "woff2": "mulish_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Mulish",
+      "handle": "mulish_n4",
+      "name": "Mulish",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "mulish_n4.woff",
+        "woff2": "mulish_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Mulish",
+      "handle": "mulish_i4",
+      "name": "Mulish Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "mulish_i4.woff",
+        "woff2": "mulish_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Mulish",
+      "handle": "mulish_n5",
+      "name": "Mulish Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "mulish_n5.woff",
+        "woff2": "mulish_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Mulish",
+      "handle": "mulish_i5",
+      "name": "Mulish Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "mulish_i5.woff",
+        "woff2": "mulish_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Mulish",
+      "handle": "mulish_n6",
+      "name": "Mulish Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "mulish_n6.woff",
+        "woff2": "mulish_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Mulish",
+      "handle": "mulish_i6",
+      "name": "Mulish Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "mulish_i6.woff",
+        "woff2": "mulish_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Mulish",
+      "handle": "mulish_n7",
+      "name": "Mulish Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "mulish_n7.woff",
+        "woff2": "mulish_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Mulish",
+      "handle": "mulish_i7",
+      "name": "Mulish Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "mulish_i7.woff",
+        "woff2": "mulish_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Mulish",
+      "handle": "mulish_n8",
+      "name": "Mulish Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "mulish_n8.woff",
+        "woff2": "mulish_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Mulish",
+      "handle": "mulish_i8",
+      "name": "Mulish Extra Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "800",
+      "urls": {
+        "woff": "mulish_i8.woff",
+        "woff2": "mulish_i8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Mulish",
+      "handle": "mulish_n9",
+      "name": "Mulish Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "mulish_n9.woff",
+        "woff2": "mulish_n9.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Mulish",
+      "handle": "mulish_i9",
+      "name": "Mulish Black Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "900",
+      "urls": {
+        "woff": "mulish_i9.woff",
+        "woff2": "mulish_i9.woff2"
+      }
+    }
+  ]
+}

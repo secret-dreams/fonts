@@ -1,0 +1,72 @@
+{
+  "default_variant_handle": "space_grotesk_n4",
+  "name": "Space Grotesk",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Space Grotesk",
+      "handle": "space_grotesk_n3",
+      "name": "Space Grotesk Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "space_grotesk_n3.woff",
+        "woff2": "space_grotesk_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Space Grotesk",
+      "handle": "space_grotesk_n4",
+      "name": "Space Grotesk",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "space_grotesk_n4.woff",
+        "woff2": "space_grotesk_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Space Grotesk",
+      "handle": "space_grotesk_n5",
+      "name": "Space Grotesk Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "space_grotesk_n5.woff",
+        "woff2": "space_grotesk_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Space Grotesk",
+      "handle": "space_grotesk_n6",
+      "name": "Space Grotesk Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "space_grotesk_n6.woff",
+        "woff2": "space_grotesk_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Space Grotesk",
+      "handle": "space_grotesk_n7",
+      "name": "Space Grotesk Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "space_grotesk_n7.woff",
+        "woff2": "space_grotesk_n7.woff2"
+      }
+    }
+  ]
+}

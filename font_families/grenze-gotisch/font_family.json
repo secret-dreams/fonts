@@ -1,0 +1,124 @@
+{
+  "default_variant_handle": "grenze_gotisch_n4",
+  "name": "Grenze Gotisch",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "cursive",
+      "family": "Grenze Gotisch",
+      "handle": "grenze_gotisch_n1",
+      "name": "Grenze Gotisch Thin",
+      "provider": "google",
+      "style": "normal",
+      "weight": "100",
+      "urls": {
+        "woff": "grenze_gotisch_n1.woff",
+        "woff2": "grenze_gotisch_n1.woff2"
+      }
+    },
+    {
+      "fallbacks": "cursive",
+      "family": "Grenze Gotisch",
+      "handle": "grenze_gotisch_n2",
+      "name": "Grenze Gotisch Extra Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "200",
+      "urls": {
+        "woff": "grenze_gotisch_n2.woff",
+        "woff2": "grenze_gotisch_n2.woff2"
+      }
+    },
+    {
+      "fallbacks": "cursive",
+      "family": "Grenze Gotisch",
+      "handle": "grenze_gotisch_n3",
+      "name": "Grenze Gotisch Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "grenze_gotisch_n3.woff",
+        "woff2": "grenze_gotisch_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "cursive",
+      "family": "Grenze Gotisch",
+      "handle": "grenze_gotisch_n4",
+      "name": "Grenze Gotisch Regular",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "grenze_gotisch_n4.woff",
+        "woff2": "grenze_gotisch_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "cursive",
+      "family": "Grenze Gotisch",
+      "handle": "grenze_gotisch_n5",
+      "name": "Grenze Gotisch Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "grenze_gotisch_n5.woff",
+        "woff2": "grenze_gotisch_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "cursive",
+      "family": "Grenze Gotisch",
+      "handle": "grenze_gotisch_n6",
+      "name": "Grenze Gotisch Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "grenze_gotisch_n6.woff",
+        "woff2": "grenze_gotisch_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "cursive",
+      "family": "Grenze Gotisch",
+      "handle": "grenze_gotisch_n7",
+      "name": "Grenze Gotisch Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "grenze_gotisch_n7.woff",
+        "woff2": "grenze_gotisch_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "cursive",
+      "family": "Grenze Gotisch",
+      "handle": "grenze_gotisch_n8",
+      "name": "Grenze Gotisch Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "grenze_gotisch_n8.woff",
+        "woff2": "grenze_gotisch_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "cursive",
+      "family": "Grenze Gotisch",
+      "handle": "grenze_gotisch_n9",
+      "name": "Grenze Gotisch Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "grenze_gotisch_n9.woff",
+        "woff2": "grenze_gotisch_n9.woff2"
+      }
+    }
+  ]
+}

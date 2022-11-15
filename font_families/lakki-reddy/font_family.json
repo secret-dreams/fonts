@@ -1,0 +1,20 @@
+{
+  "default_variant_handle": "lakki_reddy_n4",
+  "name": "Lakki Reddy",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "cursive",
+      "family": "Lakki Reddy",
+      "handle": "lakki_reddy_n4",
+      "name": "Lakki Reddy",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "lakki_reddy_n4.woff",
+        "woff2": "lakki_reddy_n4.woff2"
+      }
+    }
+  ]
+}

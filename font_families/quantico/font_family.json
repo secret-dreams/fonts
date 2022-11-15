@@ -1,0 +1,59 @@
+{
+  "default_variant_handle": "quantico_n4",
+  "name": "Quantico",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Quantico",
+      "handle": "quantico_n4",
+      "name": "Quantico",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "quantico_n4.woff",
+        "woff2": "quantico_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Quantico",
+      "handle": "quantico_i4",
+      "name": "Quantico Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "quantico_i4.woff",
+        "woff2": "quantico_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Quantico",
+      "handle": "quantico_n7",
+      "name": "Quantico Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "quantico_n7.woff",
+        "woff2": "quantico_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Quantico",
+      "handle": "quantico_i7",
+      "name": "Quantico Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "quantico_i7.woff",
+        "woff2": "quantico_i7.woff2"
+      }
+    }
+  ]
+}

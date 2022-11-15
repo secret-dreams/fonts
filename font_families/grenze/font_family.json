@@ -1,0 +1,241 @@
+{
+  "default_variant_handle": "Grenze_n4",
+  "name": "Grenze",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Grenze",
+      "handle": "grenze_n1",
+      "name": "Grenze Thin",
+      "provider": "google",
+      "style": "normal",
+      "weight": "100",
+      "urls": {
+        "woff": "grenze_n1.woff",
+        "woff2": "grenze_n1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Grenze",
+      "handle": "grenze_i1",
+      "name": "Grenze Thin Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "100",
+      "urls": {
+        "woff": "grenze_i1.woff",
+        "woff2": "grenze_i1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Grenze",
+      "handle": "grenze_n2",
+      "name": "Grenze Extra Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "200",
+      "urls": {
+        "woff": "grenze_n2.woff",
+        "woff2": "grenze_n2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Grenze",
+      "handle": "grenze_i2",
+      "name": "Grenze Extra Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "200",
+      "urls": {
+        "woff": "grenze_i2.woff",
+        "woff2": "grenze_i2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Grenze",
+      "handle": "grenze_n3",
+      "name": "Grenze Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "grenze_n3.woff",
+        "woff2": "grenze_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Grenze",
+      "handle": "grenze_i3",
+      "name": "Grenze Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "grenze_i3.woff",
+        "woff2": "grenze_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Grenze",
+      "handle": "grenze_n4",
+      "name": "Grenze Regular",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "grenze_n4.woff",
+        "woff2": "grenze_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Grenze",
+      "handle": "grenze_i4",
+      "name": "Grenze Regular Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "grenze_i4.woff",
+        "woff2": "grenze_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Grenze",
+      "handle": "grenze_n5",
+      "name": "Grenze Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "grenze_n5.woff",
+        "woff2": "grenze_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Grenze",
+      "handle": "grenze_i5",
+      "name": "Grenze Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "grenze_i5.woff",
+        "woff2": "grenze_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Grenze",
+      "handle": "grenze_n6",
+      "name": "Grenze Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "grenze_n6.woff",
+        "woff2": "grenze_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Grenze",
+      "handle": "grenze_i6",
+      "name": "Grenze Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "grenze_i6.woff",
+        "woff2": "grenze_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Grenze",
+      "handle": "grenze_n7",
+      "name": "Grenze Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "grenze_n7.woff",
+        "woff2": "grenze_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Grenze",
+      "handle": "grenze_i7",
+      "name": "Grenze Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "grenze_i7.woff",
+        "woff2": "grenze_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Grenze",
+      "handle": "grenze_n8",
+      "name": "Grenze Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "grenze_n8.woff",
+        "woff2": "grenze_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Grenze",
+      "handle": "grenze_i8",
+      "name": "Grenze Extra Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "800",
+      "urls": {
+        "woff": "grenze_i8.woff",
+        "woff2": "grenze_i8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Grenze",
+      "handle": "grenze_n9",
+      "name": "Grenze Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "grenze_n9.woff",
+        "woff2": "grenze_n9.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Grenze",
+      "handle": "grenze_i9",
+      "name": "Grenze Black",
+      "provider": "google",
+      "style": "italic",
+      "weight": "900",
+      "urls": {
+        "woff": "grenze_i9.woff",
+        "woff2": "grenze_i9.woff2"
+      }
+    }
+  ]
+}

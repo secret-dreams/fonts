@@ -1,0 +1,46 @@
+{
+  "default_variant_handle": "sen_n4",
+  "name": "Sen",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Sen",
+      "handle": "sen_n4",
+      "name": "Sen",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "sen_n4.woff",
+        "woff2": "sen_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Sen",
+      "handle": "sen_n7",
+      "name": "Sen Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "sen_n7.woff",
+        "woff2": "sen_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Sen",
+      "handle": "sen_n8",
+      "name": "Sen Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "sen_n8.woff",
+        "woff2": "sen_n8.woff2"
+      }
+    }
+  ]
+}

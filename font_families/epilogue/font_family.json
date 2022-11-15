@@ -1,0 +1,241 @@
+{
+  "default_variant_handle": "epilogue_n4",
+  "name": "Epilogue",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Epilogue",
+      "handle": "epilogue_n1",
+      "name": "Epilogue Thin",
+      "provider": "google",
+      "style": "normal",
+      "weight": "100",
+      "urls": {
+        "woff": "epilogue_n1.woff",
+        "woff2": "epilogue_n1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Epilogue",
+      "handle": "epilogue_i1",
+      "name": "Epilogue Thin Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "100",
+      "urls": {
+        "woff": "epilogue_i1.woff",
+        "woff2": "epilogue_i1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Epilogue",
+      "handle": "epilogue_n2",
+      "name": "Epilogue Extra Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "200",
+      "urls": {
+        "woff": "epilogue_n2.woff",
+        "woff2": "epilogue_n2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Epilogue",
+      "handle": "epilogue_i2",
+      "name": "Epilogue Extra Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "200",
+      "urls": {
+        "woff": "epilogue_i2.woff",
+        "woff2": "epilogue_i2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Epilogue",
+      "handle": "epilogue_n3",
+      "name": "Epilogue Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "epilogue_n3.woff",
+        "woff2": "epilogue_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Epilogue",
+      "handle": "epilogue_i3",
+      "name": "Epilogue Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "epilogue_i3.woff",
+        "woff2": "epilogue_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Epilogue",
+      "handle": "epilogue_n4",
+      "name": "Epilogue",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "epilogue_n4.woff",
+        "woff2": "epilogue_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Epilogue",
+      "handle": "epilogue_i4",
+      "name": "Epilogue Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "epilogue_i4.woff",
+        "woff2": "epilogue_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Epilogue",
+      "handle": "epilogue_n5",
+      "name": "Epilogue Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "epilogue_n5.woff",
+        "woff2": "epilogue_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Epilogue",
+      "handle": "epilogue_i5",
+      "name": "Epilogue Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "epilogue_i5.woff",
+        "woff2": "epilogue_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Epilogue",
+      "handle": "epilogue_n6",
+      "name": "Epilogue Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "epilogue_n6.woff",
+        "woff2": "epilogue_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Epilogue",
+      "handle": "epilogue_i6",
+      "name": "Epilogue Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "epilogue_i6.woff",
+        "woff2": "epilogue_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Epilogue",
+      "handle": "epilogue_n7",
+      "name": "Epilogue Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "epilogue_n7.woff",
+        "woff2": "epilogue_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Epilogue",
+      "handle": "epilogue_i7",
+      "name": "Epilogue Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "epilogue_i7.woff",
+        "woff2": "epilogue_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Epilogue",
+      "handle": "epilogue_n8",
+      "name": "Epilogue Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "epilogue_n8.woff",
+        "woff2": "epilogue_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Epilogue",
+      "handle": "epilogue_i8",
+      "name": "Epilogue Extra Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "800",
+      "urls": {
+        "woff": "epilogue_i8.woff",
+        "woff2": "epilogue_i8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Epilogue",
+      "handle": "epilogue_n9",
+      "name": "Epilogue Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "epilogue_n9.woff",
+        "woff2": "epilogue_n9.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Epilogue",
+      "handle": "epilogue_i9",
+      "name": "Epilogue Black Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "900",
+      "urls": {
+        "woff": "epilogue_i9.woff",
+        "woff2": "epilogue_i9.woff2"
+      }
+    }
+  ]
+}

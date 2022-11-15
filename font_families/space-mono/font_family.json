@@ -1,0 +1,59 @@
+{
+  "default_variant_handle": "space_mono_n4",
+  "name": "Space Mono",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "monospace",
+      "family": "Space Mono",
+      "handle": "space_mono_n4",
+      "name": "Space Mono",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "space_mono_n4.woff",
+        "woff2": "space_mono_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "Space Mono",
+      "handle": "space_mono_i4",
+      "name": "Space Mono Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "space_mono_i4.woff",
+        "woff2": "space_mono_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "Space Mono",
+      "handle": "space_mono_n7",
+      "name": "Space Mono Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "space_mono_n7.woff",
+        "woff2": "space_mono_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "Space Mono",
+      "handle": "space_mono_i7",
+      "name": "Space Mono Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "space_mono_i7.woff",
+        "woff2": "space_mono_i7.woff2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "default_variant_handle": "arvo_n4",
+  "name": "Arvo",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "serif",
+      "family": "Arvo",
+      "handle": "arvo_n4",
+      "name": "Arvo",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "arvo_n4.woff",
+        "woff2": "arvo_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Arvo",
+      "handle": "arvo_i4",
+      "name": "Arvo Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "arvo_i4.woff",
+        "woff2": "arvo_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Arvo",
+      "handle": "arvo_n7",
+      "name": "Arvo Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "arvo_n7.woff",
+        "woff2": "arvo_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Arvo",
+      "handle": "arvo_i7",
+      "name": "Arvo Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "arvo_i7.woff",
+        "woff2": "arvo_i7.woff2"
+      }
+    }
+  ]
+}

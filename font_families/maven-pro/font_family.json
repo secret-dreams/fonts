@@ -1,0 +1,59 @@
+{
+  "default_variant_handle": "maven_pro_n4",
+  "name": "Maven Pro",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Maven Pro",
+      "handle": "maven_pro_n4",
+      "name": "Maven Pro",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "maven_pro_n4.woff",
+        "woff2": "maven_pro_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Maven Pro",
+      "handle": "maven_pro_n5",
+      "name": "Maven Pro Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "maven_pro_n5.woff",
+        "woff2": "maven_pro_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Maven Pro",
+      "handle": "maven_pro_n7",
+      "name": "Maven Pro Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "maven_pro_n7.woff",
+        "woff2": "maven_pro_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Maven Pro",
+      "handle": "maven_pro_n9",
+      "name": "Maven Pro Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "maven_pro_n9.woff",
+        "woff2": "maven_pro_n9.woff2"
+      }
+    }
+  ]
+}

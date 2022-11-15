@@ -1,0 +1,33 @@
+{
+  "default_variant_handle": "asul_n4",
+  "name": "Asul",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "serif",
+      "family": "Asul",
+      "handle": "asul_n4",
+      "name": "Asul",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "asul_n4.woff",
+        "woff2": "asul_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Asul",
+      "handle": "asul_n7",
+      "name": "Asul Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "asul_n7.woff",
+        "woff2": "asul_n7.woff2"
+      }
+    }
+  ]
+}

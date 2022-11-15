@@ -1,0 +1,137 @@
+{
+  "default_variant_handle": "open_sans_n4",
+  "name": "Open Sans",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Open Sans",
+      "handle": "open_sans_n3",
+      "name": "Open Sans Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "open_sans_n3.woff",
+        "woff2": "open_sans_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Open Sans",
+      "handle": "open_sans_i3",
+      "name": "Open Sans Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "open_sans_i3.woff",
+        "woff2": "open_sans_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Open Sans",
+      "handle": "open_sans_n4",
+      "name": "Open Sans",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "open_sans_n4.woff",
+        "woff2": "open_sans_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Open Sans",
+      "handle": "open_sans_i4",
+      "name": "Open Sans Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "open_sans_i4.woff",
+        "woff2": "open_sans_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Open Sans",
+      "handle": "open_sans_n6",
+      "name": "Open Sans Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "open_sans_n6.woff",
+        "woff2": "open_sans_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Open Sans",
+      "handle": "open_sans_i6",
+      "name": "Open Sans Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "open_sans_i6.woff",
+        "woff2": "open_sans_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Open Sans",
+      "handle": "open_sans_n7",
+      "name": "Open Sans Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "open_sans_n7.woff",
+        "woff2": "open_sans_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Open Sans",
+      "handle": "open_sans_i7",
+      "name": "Open Sans Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "open_sans_i7.woff",
+        "woff2": "open_sans_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Open Sans",
+      "handle": "open_sans_n8",
+      "name": "Open Sans Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "open_sans_n8.woff",
+        "woff2": "open_sans_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Open Sans",
+      "handle": "open_sans_i8",
+      "name": "Open Sans Extra Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "800",
+      "urls": {
+        "woff": "open_sans_i8.woff",
+        "woff2": "open_sans_i8.woff2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "default_variant_handle": "carbon_n4",
+  "name": "Carbon",
+  "provider": "fourthwall",
+  "license": "fourthwall_license",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Carbon",
+      "handle": "carbon_n1",
+      "name": "Carbon Thin",
+      "provider": "fourthwall",
+      "style": "normal",
+      "weight": "100",
+      "urls": {
+        "woff": "carbon_n1.woff",
+        "woff2": "carbon_n1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Carbon",
+      "handle": "carbon_i1",
+      "name": "Carbon Thin Italic",
+      "provider": "fourthwall",
+      "style": "italic",
+      "weight": "100",
+      "urls": {
+        "woff": "carbon_i1.woff",
+        "woff2": "carbon_i1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Carbon",
+      "handle": "carbon_n4",
+      "name": "Carbon Regular",
+      "provider": "fourthwall",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "carbon_n4.woff",
+        "woff2": "carbon_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Carbon",
+      "handle": "carbon_i4",
+      "name": "Carbon Regular Italic",
+      "provider": "fourthwall",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "carbon_i4.woff",
+        "woff2": "carbon_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Carbon",
+      "handle": "carbon_n7",
+      "name": "Carbon Bold",
+      "provider": "fourthwall",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "carbon_n7.woff",
+        "woff2": "carbon_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Carbon",
+      "handle": "carbon_i7",
+      "name": "Carbon Bold Italic",
+      "provider": "fourthwall",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "carbon_i7.woff",
+        "woff2": "carbon_i7.woff2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "default_variant_handle": "eb_garamond_n4",
+  "name": "EB Garamond",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "serif",
+      "family": "EB Garamond",
+      "handle": "eb_garamond_n4",
+      "name": "EB Garamond",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "eb_garamond_n4.woff",
+        "woff2": "eb_garamond_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "EB Garamond",
+      "handle": "eb_garamond_i4",
+      "name": "EB Garamond Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "eb_garamond_i4.woff",
+        "woff2": "eb_garamond_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "EB Garamond",
+      "handle": "eb_garamond_n5",
+      "name": "EB Garamond Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "eb_garamond_n5.woff",
+        "woff2": "eb_garamond_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "EB Garamond",
+      "handle": "eb_garamond_i5",
+      "name": "EB Garamond Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "eb_garamond_i5.woff",
+        "woff2": "eb_garamond_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "EB Garamond",
+      "handle": "eb_garamond_n6",
+      "name": "EB Garamond Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "eb_garamond_n6.woff",
+        "woff2": "eb_garamond_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "EB Garamond",
+      "handle": "eb_garamond_i6",
+      "name": "EB Garamond Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "eb_garamond_i6.woff",
+        "woff2": "eb_garamond_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "EB Garamond",
+      "handle": "eb_garamond_n7",
+      "name": "EB Garamond Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "eb_garamond_n7.woff",
+        "woff2": "eb_garamond_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "EB Garamond",
+      "handle": "eb_garamond_i7",
+      "name": "EB Garamond Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "eb_garamond_i7.woff",
+        "woff2": "eb_garamond_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "EB Garamond",
+      "handle": "eb_garamond_n8",
+      "name": "EB Garamond Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "eb_garamond_n8.woff",
+        "woff2": "eb_garamond_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "EB Garamond",
+      "handle": "eb_garamond_i8",
+      "name": "EB Garamond Extra Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "800",
+      "urls": {
+        "woff": "eb_garamond_i8.woff",
+        "woff2": "eb_garamond_i8.woff2"
+      }
+    }
+  ]
+}

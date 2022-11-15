@@ -1,0 +1,111 @@
+{
+  "default_variant_handle": "lora_n4",
+  "name": "Lora",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "serif",
+      "family": "Lora",
+      "handle": "lora_n4",
+      "name": "Lora",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "lora_n4.woff",
+        "woff2": "lora_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Lora",
+      "handle": "lora_i4",
+      "name": "Lora Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "lora_i4.woff",
+        "woff2": "lora_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Lora",
+      "handle": "lora_n5",
+      "name": "Lora Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "lora_n5.woff",
+        "woff2": "lora_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Lora",
+      "handle": "lora_i5",
+      "name": "Lora Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "lora_i5.woff",
+        "woff2": "lora_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Lora",
+      "handle": "lora_n6",
+      "name": "Lora Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "lora_n6.woff",
+        "woff2": "lora_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Lora",
+      "handle": "lora_i6",
+      "name": "Lora Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "lora_i6.woff",
+        "woff2": "lora_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Lora",
+      "handle": "lora_n7",
+      "name": "Lora Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "lora_n7.woff",
+        "woff2": "lora_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Lora",
+      "handle": "lora_i7",
+      "name": "Lora Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "lora_i7.woff",
+        "woff2": "lora_i7.woff2"
+      }
+    }
+  ]
+}

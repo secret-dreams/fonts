@@ -1,0 +1,241 @@
+{
+  "default_variant_handle": "lato_n4",
+  "name": "Lato",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Lato",
+      "handle": "lato_n1",
+      "name": "Lato Thin",
+      "provider": "google",
+      "style": "normal",
+      "weight": "100",
+      "urls": {
+        "woff": "lato_n1.woff",
+        "woff2": "lato_n1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Lato",
+      "handle": "lato_i1",
+      "name": "Lato Thin Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "100",
+      "urls": {
+        "woff": "lato_i1.woff",
+        "woff2": "lato_i1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Lato",
+      "handle": "lato_n2",
+      "name": "Lato Extra Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "200",
+      "urls": {
+        "woff": "lato_n2.woff",
+        "woff2": "lato_n2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Lato",
+      "handle": "lato_i2",
+      "name": "Lato Extra Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "200",
+      "urls": {
+        "woff": "lato_i2.woff",
+        "woff2": "lato_i2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Lato",
+      "handle": "lato_n3",
+      "name": "Lato Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "lato_n3.woff",
+        "woff2": "lato_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Lato",
+      "handle": "lato_i3",
+      "name": "Lato Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "lato_i3.woff",
+        "woff2": "lato_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Lato",
+      "handle": "lato_n4",
+      "name": "Lato",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "lato_n4.woff",
+        "woff2": "lato_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Lato",
+      "handle": "lato_i4",
+      "name": "Lato Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "lato_i4.woff",
+        "woff2": "lato_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Lato",
+      "handle": "lato_n5",
+      "name": "Lato Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "lato_n5.woff",
+        "woff2": "lato_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Lato",
+      "handle": "lato_i5",
+      "name": "Lato Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "lato_i5.woff",
+        "woff2": "lato_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Lato",
+      "handle": "lato_n6",
+      "name": "Lato Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "lato_n6.woff",
+        "woff2": "lato_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Lato",
+      "handle": "lato_i6",
+      "name": "Lato Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "lato_i6.woff",
+        "woff2": "lato_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Lato",
+      "handle": "lato_n7",
+      "name": "Lato Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "lato_n7.woff",
+        "woff2": "lato_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Lato",
+      "handle": "lato_i7",
+      "name": "Lato Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "lato_i7.woff",
+        "woff2": "lato_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Lato",
+      "handle": "lato_n8",
+      "name": "Lato Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "lato_n8.woff",
+        "woff2": "lato_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Lato",
+      "handle": "lato_i8",
+      "name": "Lato Extra Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "800",
+      "urls": {
+        "woff": "lato_i8.woff",
+        "woff2": "lato_i8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Lato",
+      "handle": "lato_n9",
+      "name": "Lato Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "lato_n9.woff",
+        "woff2": "lato_n9.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Lato",
+      "handle": "lato_i9",
+      "name": "Lato Black Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "900",
+      "urls": {
+        "woff": "lato_i9.woff",
+        "woff2": "lato_i9.woff2"
+      }
+    }
+  ]
+}

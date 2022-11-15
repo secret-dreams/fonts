@@ -1,0 +1,241 @@
+{
+  "default_variant_handle": "raleway_n4",
+  "name": "Raleway",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Raleway",
+      "handle": "raleway_n1",
+      "name": "Raleway Thin",
+      "provider": "google",
+      "style": "normal",
+      "weight": "100",
+      "urls": {
+        "woff": "raleway_n1.woff",
+        "woff2": "raleway_n1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Raleway",
+      "handle": "raleway_i1",
+      "name": "Raleway Thin Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "100",
+      "urls": {
+        "woff": "raleway_i1.woff",
+        "woff2": "raleway_i1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Raleway",
+      "handle": "raleway_n2",
+      "name": "Raleway Extra Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "200",
+      "urls": {
+        "woff": "raleway_n2.woff",
+        "woff2": "raleway_n2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Raleway",
+      "handle": "raleway_i2",
+      "name": "Raleway Extra Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "200",
+      "urls": {
+        "woff": "raleway_i2.woff",
+        "woff2": "raleway_i2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Raleway",
+      "handle": "raleway_n3",
+      "name": "Raleway Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "raleway_n3.woff",
+        "woff2": "raleway_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Raleway",
+      "handle": "raleway_i3",
+      "name": "Raleway Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "raleway_i3.woff",
+        "woff2": "raleway_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Raleway",
+      "handle": "raleway_n4",
+      "name": "Raleway",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "raleway_n4.woff",
+        "woff2": "raleway_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Raleway",
+      "handle": "raleway_i4",
+      "name": "Raleway Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "raleway_i4.woff",
+        "woff2": "raleway_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Raleway",
+      "handle": "raleway_n5",
+      "name": "Raleway Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "raleway_n5.woff",
+        "woff2": "raleway_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Raleway",
+      "handle": "raleway_i5",
+      "name": "Raleway Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "raleway_i5.woff",
+        "woff2": "raleway_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Raleway",
+      "handle": "raleway_n6",
+      "name": "Raleway Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "raleway_n6.woff",
+        "woff2": "raleway_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Raleway",
+      "handle": "raleway_i6",
+      "name": "Raleway Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "raleway_i6.woff",
+        "woff2": "raleway_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Raleway",
+      "handle": "raleway_n7",
+      "name": "Raleway Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "raleway_n7.woff",
+        "woff2": "raleway_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Raleway",
+      "handle": "raleway_i7",
+      "name": "Raleway Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "raleway_i7.woff",
+        "woff2": "raleway_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Raleway",
+      "handle": "raleway_n8",
+      "name": "Raleway Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "raleway_n8.woff",
+        "woff2": "raleway_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Raleway",
+      "handle": "raleway_i8",
+      "name": "Raleway Extra Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "800",
+      "urls": {
+        "woff": "raleway_i8.woff",
+        "woff2": "raleway_i8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Raleway",
+      "handle": "raleway_n9",
+      "name": "Raleway Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "raleway_n9.woff",
+        "woff2": "raleway_n9.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Raleway",
+      "handle": "raleway_i9",
+      "name": "Raleway Black Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "900",
+      "urls": {
+        "woff": "raleway_i9.woff",
+        "woff2": "raleway_i9.woff2"
+      }
+    }
+  ]
+}

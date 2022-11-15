@@ -1,0 +1,189 @@
+{
+  "default_variant_handle": "alegreya_sans_n4",
+  "name": "Alegreya Sans",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Alegreya Sans",
+      "handle": "alegreya_sans_n1",
+      "name": "Alegreya Sans Thin",
+      "provider": "google",
+      "style": "normal",
+      "weight": "100",
+      "urls": {
+        "woff": "alegreya_sans_n1.woff",
+        "woff2": "alegreya_sans_n1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Alegreya Sans",
+      "handle": "alegreya_sans_i1",
+      "name": "Alegreya Sans Thin Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "100",
+      "urls": {
+        "woff": "alegreya_sans_i1.woff",
+        "woff2": "alegreya_sans_i1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Alegreya Sans",
+      "handle": "alegreya_sans_n3",
+      "name": "Alegreya Sans Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "alegreya_sans_n3.woff",
+        "woff2": "alegreya_sans_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Alegreya Sans",
+      "handle": "alegreya_sans_i3",
+      "name": "Alegreya Sans Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "alegreya_sans_i3.woff",
+        "woff2": "alegreya_sans_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Alegreya Sans",
+      "handle": "alegreya_sans_n4",
+      "name": "Alegreya Sans",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "alegreya_sans_n4.woff",
+        "woff2": "alegreya_sans_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Alegreya Sans",
+      "handle": "alegreya_sans_i4",
+      "name": "Alegreya Sans Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "alegreya_sans_i4.woff",
+        "woff2": "alegreya_sans_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Alegreya Sans",
+      "handle": "alegreya_sans_n5",
+      "name": "Alegreya Sans Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "alegreya_sans_n5.woff",
+        "woff2": "alegreya_sans_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Alegreya Sans",
+      "handle": "alegreya_sans_i5",
+      "name": "Alegreya Sans Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "alegreya_sans_i5.woff",
+        "woff2": "alegreya_sans_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Alegreya Sans",
+      "handle": "alegreya_sans_n7",
+      "name": "Alegreya Sans Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "alegreya_sans_n7.woff",
+        "woff2": "alegreya_sans_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Alegreya Sans",
+      "handle": "alegreya_sans_i7",
+      "name": "Alegreya Sans Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "alegreya_sans_i7.woff",
+        "woff2": "alegreya_sans_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Alegreya Sans",
+      "handle": "alegreya_sans_n8",
+      "name": "Alegreya Sans Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "alegreya_sans_n8.woff",
+        "woff2": "alegreya_sans_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Alegreya Sans",
+      "handle": "alegreya_sans_i8",
+      "name": "Alegreya Sans Extra Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "800",
+      "urls": {
+        "woff": "alegreya_sans_i8.woff",
+        "woff2": "alegreya_sans_i8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Alegreya Sans",
+      "handle": "alegreya_sans_n9",
+      "name": "Alegreya Sans Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "alegreya_sans_n9.woff",
+        "woff2": "alegreya_sans_n9.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Alegreya Sans",
+      "handle": "alegreya_sans_i9",
+      "name": "Alegreya Sans Black Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "900",
+      "urls": {
+        "woff": "alegreya_sans_i9.woff",
+        "woff2": "alegreya_sans_i9.woff2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "default_variant_handle": "barlow_condensed_n4",
+  "name": "Barlow Condensed",
+  "provider": "google",
+  "license": "open_font_license",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow Condensed",
+      "handle": "barlow_condensed_n1",
+      "name": "Barlow Condensed Thin",
+      "provider": "google",
+      "style": "normal",
+      "weight": "100",
+      "urls": {
+        "woff": "barlow_condensed_n1.woff",
+        "woff2": "barlow_condensed_n1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow Condensed",
+      "handle": "barlow_condensed_i1",
+      "name": "Barlow Condensed Thin Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "100",
+      "urls": {
+        "woff": "barlow_condensed_i1.woff",
+        "woff2": "barlow_condensed_i1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow Condensed",
+      "handle": "barlow_condensed_n2",
+      "name": "Barlow Condensed Extra Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "200",
+      "urls": {
+        "woff": "barlow_condensed_n2.woff",
+        "woff2": "barlow_condensed_n2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow Condensed",
+      "handle": "barlow_condensed_i2",
+      "name": "Barlow Condensed Extra Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "200",
+      "urls": {
+        "woff": "barlow_condensed_i2.woff",
+        "woff2": "barlow_condensed_i2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow Condensed",
+      "handle": "barlow_condensed_n3",
+      "name": "Barlow Condensed Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "barlow_condensed_n3.woff",
+        "woff2": "barlow_condensed_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow Condensed",
+      "handle": "barlow_condensed_i3",
+      "name": "Barlow Condensed Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "barlow_condensed_i3.woff",
+        "woff2": "barlow_condensed_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow Condensed",
+      "handle": "barlow_condensed_n4",
+      "name": "Barlow Condensed Regular",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "barlow_condensed_n4.woff",
+        "woff2": "barlow_condensed_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow Condensed",
+      "handle": "barlow_condensed_i4",
+      "name": "Barlow Condensed Regular Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "barlow_condensed_i4.woff",
+        "woff2": "barlow_condensed_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow Condensed",
+      "handle": "barlow_condensed_n5",
+      "name": "Barlow Condensed Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "barlow_condensed_n5.woff",
+        "woff2": "barlow_condensed_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow Condensed",
+      "handle": "barlow_condensed_i5",
+      "name": "Barlow Condensed Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "barlow_condensed_i5.woff",
+        "woff2": "barlow_condensed_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow Condensed",
+      "handle": "barlow_condensed_n6",
+      "name": "Barlow Condensed Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "barlow_condensed_n6.woff",
+        "woff2": "barlow_condensed_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow Condensed",
+      "handle": "barlow_condensed_i6",
+      "name": "Barlow Condensed Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "barlow_condensed_i6.woff",
+        "woff2": "barlow_condensed_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow Condensed",
+      "handle": "barlow_condensed_n7",
+      "name": "Barlow Condensed Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "barlow_condensed_n7.woff",
+        "woff2": "barlow_condensed_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow Condensed",
+      "handle": "barlow_condensed_i7",
+      "name": "Barlow Condensed Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "barlow_condensed_i7.woff",
+        "woff2": "barlow_condensed_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow Condensed",
+      "handle": "barlow_condensed_n8",
+      "name": "Barlow Condensed Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "barlow_condensed_n8.woff",
+        "woff2": "barlow_condensed_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow Condensed",
+      "handle": "barlow_condensed_i8",
+      "name": "Barlow Condensed Extra Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "800",
+      "urls": {
+        "woff": "barlow_condensed_i8.woff",
+        "woff2": "barlow_condensed_i8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow Condensed",
+      "handle": "barlow_condensed_n9",
+      "name": "Barlow Condensed Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "barlow_condensed_n9.woff",
+        "woff2": "barlow_condensed_n9.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow Condensed",
+      "handle": "barlow_condensed_i9",
+      "name": "Barlow Condensed Black Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "900",
+      "urls": {
+        "woff": "barlow_condensed_i9.woff",
+        "woff2": "barlow_condensed_i9.woff2"
+      }
+    }
+  ]
+}

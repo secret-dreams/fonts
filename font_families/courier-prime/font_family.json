@@ -1,0 +1,59 @@
+{
+  "default_variant_handle": "courier_prime_n4",
+  "name": "Courier Prime",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "monospace",
+      "family": "Courier Prime",
+      "handle": "courier_prime_n4",
+      "name": "Courier Prime",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "courier_prime_n4.woff",
+        "woff2": "courier_prime_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "Courier Prime",
+      "handle": "courier_prime_i4",
+      "name": "Courier Prime Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "courier_prime_i4.woff",
+        "woff2": "courier_prime_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "Courier Prime",
+      "handle": "courier_prime_n7",
+      "name": "Courier Prime Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "courier_prime_n7.woff",
+        "woff2": "courier_prime_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "Courier Prime",
+      "handle": "courier_prime_i7",
+      "name": "Courier Prime Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "courier_prime_i7.woff",
+        "woff2": "courier_prime_i7.woff2"
+      }
+    }
+  ]
+}

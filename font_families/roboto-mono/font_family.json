@@ -1,0 +1,137 @@
+{
+  "default_variant_handle": "roboto_mono_n4",
+  "name": "Roboto Mono",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Roboto Mono",
+      "handle": "roboto_mono_n1",
+      "name": "Roboto Mono Thin",
+      "provider": "google",
+      "style": "normal",
+      "weight": "100",
+      "urls": {
+        "woff": "roboto_mono_n1.woff",
+        "woff2": "roboto_mono_n1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Roboto Mono",
+      "handle": "roboto_mono_i1",
+      "name": "Roboto Mono Thin Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "100",
+      "urls": {
+        "woff": "roboto_mono_i1.woff",
+        "woff2": "roboto_mono_i1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Roboto Mono",
+      "handle": "roboto_mono_n3",
+      "name": "Roboto Mono Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "roboto_mono_n3.woff",
+        "woff2": "roboto_mono_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Roboto Mono",
+      "handle": "roboto_mono_i3",
+      "name": "Roboto Mono Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "roboto_mono_i3.woff",
+        "woff2": "roboto_mono_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Roboto Mono",
+      "handle": "roboto_mono_n4",
+      "name": "Roboto Mono",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "roboto_mono_n4.woff",
+        "woff2": "roboto_mono_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Roboto Mono",
+      "handle": "roboto_mono_i4",
+      "name": "Roboto Mono Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "roboto_mono_i4.woff",
+        "woff2": "roboto_mono_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Roboto Mono",
+      "handle": "roboto_mono_n5",
+      "name": "Roboto Mono Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "roboto_mono_n5.woff",
+        "woff2": "roboto_mono_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Roboto Mono",
+      "handle": "roboto_mono_i5",
+      "name": "Roboto Mono Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "roboto_mono_i5.woff",
+        "woff2": "roboto_mono_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Roboto Mono",
+      "handle": "roboto_mono_n7",
+      "name": "Roboto Mono Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "roboto_mono_n7.woff",
+        "woff2": "roboto_mono_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Roboto Mono",
+      "handle": "roboto_mono_i7",
+      "name": "Roboto Mono Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "roboto_mono_i7.woff",
+        "woff2": "roboto_mono_i7.woff2"
+      }
+    }
+  ]
+}

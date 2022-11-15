@@ -1,0 +1,137 @@
+{
+  "default_variant_handle": "alegreya_n4",
+  "name": "Alegreya",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "serif",
+      "family": "Alegreya",
+      "handle": "alegreya_n4",
+      "name": "Alegreya",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "alegreya_n4.woff",
+        "woff2": "alegreya_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Alegreya",
+      "handle": "alegreya_i4",
+      "name": "Alegreya Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "alegreya_i4.woff",
+        "woff2": "alegreya_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Alegreya",
+      "handle": "alegreya_n5",
+      "name": "Alegreya Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "alegreya_n5.woff",
+        "woff2": "alegreya_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Alegreya",
+      "handle": "alegreya_i5",
+      "name": "Alegreya Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "alegreya_i5.woff",
+        "woff2": "alegreya_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Alegreya",
+      "handle": "alegreya_n7",
+      "name": "Alegreya Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "alegreya_n7.woff",
+        "woff2": "alegreya_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Alegreya",
+      "handle": "alegreya_i7",
+      "name": "Alegreya Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "alegreya_i7.woff",
+        "woff2": "alegreya_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Alegreya",
+      "handle": "alegreya_n8",
+      "name": "Alegreya Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "alegreya_n8.woff",
+        "woff2": "alegreya_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Alegreya",
+      "handle": "alegreya_i8",
+      "name": "Alegreya Extra Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "800",
+      "urls": {
+        "woff": "alegreya_i8.woff",
+        "woff2": "alegreya_i8.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Alegreya",
+      "handle": "alegreya_n9",
+      "name": "Alegreya Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "alegreya_n9.woff",
+        "woff2": "alegreya_n9.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Alegreya",
+      "handle": "alegreya_i9",
+      "name": "Alegreya Black Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "900",
+      "urls": {
+        "woff": "alegreya_i9.woff",
+        "woff2": "alegreya_i9.woff2"
+      }
+    }
+  ]
+}

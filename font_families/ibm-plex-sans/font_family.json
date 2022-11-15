@@ -1,0 +1,189 @@
+{
+  "default_variant_handle": "ibm_plex_sans_n4",
+  "name": "IBM Plex Sans",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "IBM Plex Sans",
+      "handle": "ibm_plex_sans_n1",
+      "name": "IBM Plex Sans Thin",
+      "provider": "google",
+      "style": "normal",
+      "weight": "100",
+      "urls": {
+        "woff": "ibm_plex_sans_n1.woff",
+        "woff2": "ibm_plex_sans_n1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "IBM Plex Sans",
+      "handle": "ibm_plex_sans_i1",
+      "name": "IBM Plex Sans Thin Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "100",
+      "urls": {
+        "woff": "ibm_plex_sans_i1.woff",
+        "woff2": "ibm_plex_sans_i1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "IBM Plex Sans",
+      "handle": "ibm_plex_sans_n2",
+      "name": "IBM Plex Sans Extra Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "200",
+      "urls": {
+        "woff": "ibm_plex_sans_n2.woff",
+        "woff2": "ibm_plex_sans_n2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "IBM Plex Sans",
+      "handle": "ibm_plex_sans_i2",
+      "name": "IBM Plex Sans Extra Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "200",
+      "urls": {
+        "woff": "ibm_plex_sans_i2.woff",
+        "woff2": "ibm_plex_sans_i2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "IBM Plex Sans",
+      "handle": "ibm_plex_sans_n3",
+      "name": "IBM Plex Sans Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "ibm_plex_sans_n3.woff",
+        "woff2": "ibm_plex_sans_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "IBM Plex Sans",
+      "handle": "ibm_plex_sans_i3",
+      "name": "IBM Plex Sans Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "ibm_plex_sans_i3.woff",
+        "woff2": "ibm_plex_sans_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "IBM Plex Sans",
+      "handle": "ibm_plex_sans_n4",
+      "name": "IBM Plex Sans",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "ibm_plex_sans_n4.woff",
+        "woff2": "ibm_plex_sans_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "IBM Plex Sans",
+      "handle": "ibm_plex_sans_i4",
+      "name": "IBM Plex Sans Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "ibm_plex_sans_i4.woff",
+        "woff2": "ibm_plex_sans_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "IBM Plex Sans",
+      "handle": "ibm_plex_sans_n5",
+      "name": "IBM Plex Sans Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "ibm_plex_sans_n5.woff",
+        "woff2": "ibm_plex_sans_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "IBM Plex Sans",
+      "handle": "ibm_plex_sans_i5",
+      "name": "IBM Plex Sans Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "ibm_plex_sans_i5.woff",
+        "woff2": "ibm_plex_sans_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "IBM Plex Sans",
+      "handle": "ibm_plex_sans_n6",
+      "name": "IBM Plex Sans Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "ibm_plex_sans_n6.woff",
+        "woff2": "ibm_plex_sans_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "IBM Plex Sans",
+      "handle": "ibm_plex_sans_i6",
+      "name": "IBM Plex Sans Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "ibm_plex_sans_i6.woff",
+        "woff2": "ibm_plex_sans_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "IBM Plex Sans",
+      "handle": "ibm_plex_sans_n7",
+      "name": "IBM Plex Sans Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "ibm_plex_sans_n7.woff",
+        "woff2": "ibm_plex_sans_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "IBM Plex Sans",
+      "handle": "ibm_plex_sans_i7",
+      "name": "IBM Plex Sans Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "ibm_plex_sans_i7.woff",
+        "woff2": "ibm_plex_sans_i7.woff2"
+      }
+    }
+  ]
+}

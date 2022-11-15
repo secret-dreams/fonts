@@ -1,0 +1,111 @@
+{
+  "default_variant_handle": "big_shoulders_display_n4",
+  "name": "Big Shoulders Display",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Big Shoulders Display",
+      "handle": "big_shoulders_display_n1",
+      "name": "Big Shoulders Display Thin",
+      "provider": "google",
+      "style": "normal",
+      "weight": "100",
+      "urls": {
+        "woff": "big_shoulders_display_n1.woff",
+        "woff2": "big_shoulders_display_n1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Big Shoulders Display",
+      "handle": "big_shoulders_display_n3",
+      "name": "Big Shoulders Display Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "big_shoulders_display_n3.woff",
+        "woff2": "big_shoulders_display_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Big Shoulders Display",
+      "handle": "big_shoulders_display_n4",
+      "name": "Big Shoulders Display",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "big_shoulders_display_n4.woff",
+        "woff2": "big_shoulders_display_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Big Shoulders Display",
+      "handle": "big_shoulders_display_n5",
+      "name": "Big Shoulders Display Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "big_shoulders_display_n5.woff",
+        "woff2": "big_shoulders_display_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Big Shoulders Display",
+      "handle": "big_shoulders_display_n6",
+      "name": "Big Shoulders Display Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "big_shoulders_display_n6.woff",
+        "woff2": "big_shoulders_display_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Big Shoulders Display",
+      "handle": "big_shoulders_display_n7",
+      "name": "Big Shoulders Display Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "big_shoulders_display_n7.woff",
+        "woff2": "big_shoulders_display_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Big Shoulders Display",
+      "handle": "big_shoulders_display_n8",
+      "name": "Big Shoulders Display Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "big_shoulders_display_n8.woff",
+        "woff2": "big_shoulders_display_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Big Shoulders Display",
+      "handle": "big_shoulders_display_n9",
+      "name": "Big Shoulders Display Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "big_shoulders_display_n9.woff",
+        "woff2": "big_shoulders_display_n9.woff2"
+      }
+    }
+  ]
+}

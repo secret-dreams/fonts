@@ -1,0 +1,20 @@
+{
+  "default_variant_handle": "megrim_n4",
+  "name": "megrim",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "megrim",
+      "handle": "megrim_n4",
+      "name": "Megrim Regular",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "megrim_n4.woff",
+        "woff2": "megrim_n4.woff2"
+      }
+    }
+  ]
+}

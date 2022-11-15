@@ -1,0 +1,241 @@
+{
+  "default_variant_handle": "barlow_n4",
+  "name": "Barlow",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow",
+      "handle": "barlow_n1",
+      "name": "Barlow Thin",
+      "provider": "google",
+      "style": "normal",
+      "weight": "100",
+      "urls": {
+        "woff": "barlow_n1.woff",
+        "woff2": "barlow_n1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow",
+      "handle": "barlow_i1",
+      "name": "Barlow Thin Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "100",
+      "urls": {
+        "woff": "barlow_i1.woff",
+        "woff2": "barlow_i1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow",
+      "handle": "barlow_n2",
+      "name": "Barlow Extra Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "200",
+      "urls": {
+        "woff": "barlow_n2.woff",
+        "woff2": "barlow_n2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow",
+      "handle": "barlow_i2",
+      "name": "Barlow Extra Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "200",
+      "urls": {
+        "woff": "barlow_i2.woff",
+        "woff2": "barlow_i2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow",
+      "handle": "barlow_n3",
+      "name": "Barlow Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "barlow_n3.woff",
+        "woff2": "barlow_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow",
+      "handle": "barlow_i3",
+      "name": "Barlow Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "barlow_i3.woff",
+        "woff2": "barlow_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow",
+      "handle": "barlow_n4",
+      "name": "Barlow",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "barlow_n4.woff",
+        "woff2": "barlow_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow",
+      "handle": "barlow_i4",
+      "name": "Barlow Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "barlow_i4.woff",
+        "woff2": "barlow_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow",
+      "handle": "barlow_n5",
+      "name": "Barlow Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "barlow_n5.woff",
+        "woff2": "barlow_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow",
+      "handle": "barlow_i5",
+      "name": "Barlow Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "barlow_i5.woff",
+        "woff2": "barlow_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow",
+      "handle": "barlow_n6",
+      "name": "Barlow Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "barlow_n6.woff",
+        "woff2": "barlow_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow",
+      "handle": "barlow_i6",
+      "name": "Barlow Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "barlow_i6.woff",
+        "woff2": "barlow_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow",
+      "handle": "barlow_n7",
+      "name": "Barlow Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "barlow_n7.woff",
+        "woff2": "barlow_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow",
+      "handle": "barlow_i7",
+      "name": "Barlow Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "barlow_i7.woff",
+        "woff2": "barlow_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow",
+      "handle": "barlow_n8",
+      "name": "Barlow Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "barlow_n8.woff",
+        "woff2": "barlow_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow",
+      "handle": "barlow_i8",
+      "name": "Barlow Extra Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "800",
+      "urls": {
+        "woff": "barlow_i8.woff",
+        "woff2": "barlow_i8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow",
+      "handle": "barlow_n9",
+      "name": "Barlow Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "barlow_n9.woff",
+        "woff2": "barlow_n9.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Barlow",
+      "handle": "barlow_i9",
+      "name": "Barlow Black Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "900",
+      "urls": {
+        "woff": "barlow_i9.woff",
+        "woff2": "barlow_i9.woff2"
+      }
+    }
+  ]
+}

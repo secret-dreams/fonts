@@ -1,0 +1,189 @@
+{
+  "default_variant_handle": "ibm_plex_mono_n4",
+  "name": "IBM Plex Mono",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "monospace",
+      "family": "IBM Plex Mono",
+      "handle": "ibm_plex_mono_n1",
+      "name": "IBM Plex Mono Thin",
+      "provider": "google",
+      "style": "normal",
+      "weight": "100",
+      "urls": {
+        "woff": "ibm_plex_mono_n1.woff",
+        "woff2": "ibm_plex_mono_n1.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "IBM Plex Mono",
+      "handle": "ibm_plex_mono_i1",
+      "name": "IBM Plex Mono Thin Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "100",
+      "urls": {
+        "woff": "ibm_plex_mono_i1.woff",
+        "woff2": "ibm_plex_mono_i1.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "IBM Plex Mono",
+      "handle": "ibm_plex_mono_n2",
+      "name": "IBM Plex Mono Extra Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "200",
+      "urls": {
+        "woff": "ibm_plex_mono_n2.woff",
+        "woff2": "ibm_plex_mono_n2.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "IBM Plex Mono",
+      "handle": "ibm_plex_mono_i2",
+      "name": "IBM Plex Mono Extra Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "200",
+      "urls": {
+        "woff": "ibm_plex_mono_i2.woff",
+        "woff2": "ibm_plex_mono_i2.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "IBM Plex Mono",
+      "handle": "ibm_plex_mono_n3",
+      "name": "IBM Plex Mono Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "ibm_plex_mono_n3.woff",
+        "woff2": "ibm_plex_mono_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "IBM Plex Mono",
+      "handle": "ibm_plex_mono_i3",
+      "name": "IBM Plex Mono Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "ibm_plex_mono_i3.woff",
+        "woff2": "ibm_plex_mono_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "IBM Plex Mono",
+      "handle": "ibm_plex_mono_n4",
+      "name": "IBM Plex Mono",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "ibm_plex_mono_n4.woff",
+        "woff2": "ibm_plex_mono_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "IBM Plex Mono",
+      "handle": "ibm_plex_mono_i4",
+      "name": "IBM Plex Mono Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "ibm_plex_mono_i4.woff",
+        "woff2": "ibm_plex_mono_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "IBM Plex Mono",
+      "handle": "ibm_plex_mono_n5",
+      "name": "IBM Plex Mono Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "ibm_plex_mono_n5.woff",
+        "woff2": "ibm_plex_mono_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "IBM Plex Mono",
+      "handle": "ibm_plex_mono_i5",
+      "name": "IBM Plex Mono Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "ibm_plex_mono_i5.woff",
+        "woff2": "ibm_plex_mono_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "IBM Plex Mono",
+      "handle": "ibm_plex_mono_n6",
+      "name": "IBM Plex Mono Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "ibm_plex_mono_n6.woff",
+        "woff2": "ibm_plex_mono_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "IBM Plex Mono",
+      "handle": "ibm_plex_mono_i6",
+      "name": "IBM Plex Mono Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "ibm_plex_mono_i6.woff",
+        "woff2": "ibm_plex_mono_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "IBM Plex Mono",
+      "handle": "ibm_plex_mono_n7",
+      "name": "IBM Plex Mono Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "ibm_plex_mono_n7.woff",
+        "woff2": "ibm_plex_mono_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "IBM Plex Mono",
+      "handle": "ibm_plex_mono_i7",
+      "name": "IBM Plex Mono Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "ibm_plex_mono_i7.woff",
+        "woff2": "ibm_plex_mono_i7.woff2"
+      }
+    }
+  ]
+}

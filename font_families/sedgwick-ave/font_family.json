@@ -1,0 +1,20 @@
+{
+  "default_variant_handle": "sedgwick_ave_n4",
+  "name": "Sedgwick Ave",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "cursive",
+      "family": "Sedgwick Ave",
+      "handle": "sedgwick_ave_n4",
+      "name": "Sedgwick Ave",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "sedgwick_ave_n4.woff",
+        "woff2": "sedgwick_ave_n4.woff2"
+      }
+    }
+  ]
+}

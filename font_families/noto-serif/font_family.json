@@ -1,0 +1,59 @@
+{
+  "default_variant_handle": "notoserif_n4",
+  "name": "Noto-serif",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Notoserif",
+      "handle": "notoserif_n4",
+      "name": "Notoserif",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "notoserif_n4.woff",
+        "woff2": "notoserif_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Notoserif",
+      "handle": "notoserif_i4",
+      "name": "Notoserif Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "notoserif_i4.woff",
+        "woff2": "notoserif_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Notoserif",
+      "handle": "notoserif_n7",
+      "name": "Notoserif Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "notoserif_n7.woff",
+        "woff2": "notoserif_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Notoserif",
+      "handle": "notoserif_i7",
+      "name": "Notoserif Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "notoserif_i7.woff",
+        "woff2": "notoserif_i7.woff2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "default_variant_handle": "bebas_neue_n4",
+  "name": "Bebas Neue",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Bebas Neue",
+      "handle": "bebas_neue_n4",
+      "name": "Bebas Neue",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "bebas_neue_n4.woff",
+        "woff2": "bebas_neue_n4.woff2"
+      }
+    }
+  ]
+}

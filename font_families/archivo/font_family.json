@@ -1,0 +1,112 @@
+{
+  "default_variant_handle": "archivo_n4",
+  "name": "Archivo",
+  "provider": "google",
+  "license": "open_font_license",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Archivo",
+      "handle": "archivo_n4",
+      "name": "Archivo Regular",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "archivo_n4.woff",
+        "woff2": "archivo_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Archivo",
+      "handle": "archivo_i4",
+      "name": "Archivo Regular Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "archivo_i4.woff",
+        "woff2": "archivo_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Archivo",
+      "handle": "archivo_n5",
+      "name": "Archivo Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "archivo_n5.woff",
+        "woff2": "archivo_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Archivo",
+      "handle": "archivo_i5",
+      "name": "Archivo Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "archivo_i5.woff",
+        "woff2": "archivo_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Archivo",
+      "handle": "archivo_n6",
+      "name": "Archivo Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "archivo_n6.woff",
+        "woff2": "archivo_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Archivo",
+      "handle": "archivo_i6",
+      "name": "Archivo Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "archivo_i6.woff",
+        "woff2": "archivo_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Archivo",
+      "handle": "archivo_n7",
+      "name": "Archivo Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "archivo_n7.woff",
+        "woff2": "archivo_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Archivo",
+      "handle": "archivo_i7",
+      "name": "Archivo Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "archivo_i7.woff",
+        "woff2": "archivo_i7.woff2"
+      }
+    }
+  ]
+}

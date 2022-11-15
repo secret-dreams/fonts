@@ -1,0 +1,241 @@
+{
+  "default_variant_handle": "montserrat_n4",
+  "name": "Montserrat",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Montserrat",
+      "handle": "montserrat_n1",
+      "name": "Montserrat Thin",
+      "provider": "google",
+      "style": "normal",
+      "weight": "100",
+      "urls": {
+        "woff": "montserrat_n1.woff",
+        "woff2": "montserrat_n1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Montserrat",
+      "handle": "montserrat_i1",
+      "name": "Montserrat Thin Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "100",
+      "urls": {
+        "woff": "montserrat_i1.woff",
+        "woff2": "montserrat_i1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Montserrat",
+      "handle": "montserrat_n2",
+      "name": "Montserrat Extra Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "200",
+      "urls": {
+        "woff": "montserrat_n2.woff",
+        "woff2": "montserrat_n2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Montserrat",
+      "handle": "montserrat_i2",
+      "name": "Montserrat Extra Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "200",
+      "urls": {
+        "woff": "montserrat_i2.woff",
+        "woff2": "montserrat_i2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Montserrat",
+      "handle": "montserrat_n3",
+      "name": "Montserrat Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "montserrat_n3.woff",
+        "woff2": "montserrat_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Montserrat",
+      "handle": "montserrat_i3",
+      "name": "Montserrat Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "montserrat_i3.woff",
+        "woff2": "montserrat_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Montserrat",
+      "handle": "montserrat_n4",
+      "name": "Montserrat",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "montserrat_n4.woff",
+        "woff2": "montserrat_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Montserrat",
+      "handle": "montserrat_i4",
+      "name": "Montserrat Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "montserrat_i4.woff",
+        "woff2": "montserrat_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Montserrat",
+      "handle": "montserrat_n5",
+      "name": "Montserrat Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "montserrat_n5.woff",
+        "woff2": "montserrat_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Montserrat",
+      "handle": "montserrat_i5",
+      "name": "Montserrat Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "montserrat_i5.woff",
+        "woff2": "montserrat_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Montserrat",
+      "handle": "montserrat_n6",
+      "name": "Montserrat Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "montserrat_n6.woff",
+        "woff2": "montserrat_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Montserrat",
+      "handle": "montserrat_i6",
+      "name": "Montserrat Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "montserrat_i6.woff",
+        "woff2": "montserrat_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Montserrat",
+      "handle": "montserrat_n7",
+      "name": "Montserrat Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "montserrat_n7.woff",
+        "woff2": "montserrat_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Montserrat",
+      "handle": "montserrat_i7",
+      "name": "Montserrat Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "montserrat_i7.woff",
+        "woff2": "montserrat_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Montserrat",
+      "handle": "montserrat_n8",
+      "name": "Montserrat Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "montserrat_n8.woff",
+        "woff2": "montserrat_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Montserrat",
+      "handle": "montserrat_i8",
+      "name": "Montserrat Extra Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "800",
+      "urls": {
+        "woff": "montserrat_i8.woff",
+        "woff2": "montserrat_i8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Montserrat",
+      "handle": "montserrat_n9",
+      "name": "Montserrat Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "montserrat_n9.woff",
+        "woff2": "montserrat_n9.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Montserrat",
+      "handle": "montserrat_i9",
+      "name": "Montserrat Black Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "900",
+      "urls": {
+        "woff": "montserrat_i9.woff",
+        "woff2": "montserrat_i9.woff2"
+      }
+    }
+  ]
+}

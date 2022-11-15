@@ -1,0 +1,59 @@
+{
+  "default_variant_handle": "cousine_n4",
+  "name": "Cousine",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "monospace",
+      "family": "Cousine",
+      "handle": "cousine_n4",
+      "name": "Cousine",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "cousine_n4.woff",
+        "woff2": "cousine_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "Cousine",
+      "handle": "cousine_i4",
+      "name": "Cousine Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "cousine_i4.woff",
+        "woff2": "cousine_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "Cousine",
+      "handle": "cousine_n7",
+      "name": "Cousine Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "cousine_n7.woff",
+        "woff2": "cousine_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "monospace",
+      "family": "Cousine",
+      "handle": "cousine_i7",
+      "name": "Cousine Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "cousine_i7.woff",
+        "woff2": "cousine_i7.woff2"
+      }
+    }
+  ]
+}

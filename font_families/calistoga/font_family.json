@@ -1,0 +1,20 @@
+{
+  "default_variant_handle": "calistoga_n4",
+  "name": "Calistoga",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Calistoga",
+      "handle": "calistoga_n4",
+      "name": "Calistoga",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "calistoga_n4.woff",
+        "woff2": "calistoga_n4.woff2"
+      }
+    }
+  ]
+}

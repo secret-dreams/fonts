@@ -1,0 +1,111 @@
+{
+  "default_variant_handle": "archivo_narrow_n4",
+  "name": "Archivo Narrow",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Archivo Narrow",
+      "handle": "archivo_narrow_n4",
+      "name": "Archivo Narrow",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "archivo_narrow_n4.woff",
+        "woff2": "archivo_narrow_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Archivo Narrow",
+      "handle": "archivo_narrow_i4",
+      "name": "Archivo Narrow Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "archivo_narrow_i4.woff",
+        "woff2": "archivo_narrow_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Archivo Narrow",
+      "handle": "archivo_narrow_n5",
+      "name": "Archivo Narrow Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "archivo_narrow_n5.woff",
+        "woff2": "archivo_narrow_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Archivo Narrow",
+      "handle": "archivo_narrow_i5",
+      "name": "Archivo Narrow Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "archivo_narrow_i5.woff",
+        "woff2": "archivo_narrow_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Archivo Narrow",
+      "handle": "archivo_narrow_n6",
+      "name": "Archivo Narrow Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "archivo_narrow_n6.woff",
+        "woff2": "archivo_narrow_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Archivo Narrow",
+      "handle": "archivo_narrow_i6",
+      "name": "Archivo Narrow Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "archivo_narrow_i6.woff",
+        "woff2": "archivo_narrow_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Archivo Narrow",
+      "handle": "archivo_narrow_n7",
+      "name": "Archivo Narrow Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "archivo_narrow_n7.woff",
+        "woff2": "archivo_narrow_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Archivo Narrow",
+      "handle": "archivo_narrow_i7",
+      "name": "Archivo Narrow Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "archivo_narrow_i7.woff",
+        "woff2": "archivo_narrow_i7.woff2"
+      }
+    }
+  ]
+}

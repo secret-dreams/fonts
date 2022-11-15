@@ -1,0 +1,72 @@
+{
+  "default_variant_handle": "rajdhani_n4",
+  "name": "Rajdhani",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Rajdhani",
+      "handle": "rajdhani_n3",
+      "name": "Rajdhani Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "rajdhani_n3.woff",
+        "woff2": "rajdhani_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Rajdhani",
+      "handle": "rajdhani_n4",
+      "name": "Rajdhani",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "rajdhani_n4.woff",
+        "woff2": "rajdhani_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Rajdhani",
+      "handle": "rajdhani_n5",
+      "name": "Rajdhani Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "rajdhani_n5.woff",
+        "woff2": "rajdhani_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Rajdhani",
+      "handle": "rajdhani_n6",
+      "name": "Rajdhani Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "rajdhani_n6.woff",
+        "woff2": "rajdhani_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Rajdhani",
+      "handle": "rajdhani_n7",
+      "name": "Rajdhani Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "rajdhani_n7.woff",
+        "woff2": "rajdhani_n7.woff2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "default_variant_handle": "rubik_n4",
+  "name": "Rubik",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Rubik",
+      "handle": "rubik_n3",
+      "name": "Rubik Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "rubik_n3.woff",
+        "woff2": "rubik_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Rubik",
+      "handle": "rubik_i3",
+      "name": "Rubik Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "rubik_i3.woff",
+        "woff2": "rubik_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Rubik",
+      "handle": "rubik_n4",
+      "name": "Rubik",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "rubik_n4.woff",
+        "woff2": "rubik_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Rubik",
+      "handle": "rubik_i4",
+      "name": "Rubik Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "rubik_i4.woff",
+        "woff2": "rubik_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Rubik",
+      "handle": "rubik_n5",
+      "name": "Rubik Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "rubik_n5.woff",
+        "woff2": "rubik_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Rubik",
+      "handle": "rubik_i5",
+      "name": "Rubik Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "rubik_i5.woff",
+        "woff2": "rubik_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Rubik",
+      "handle": "rubik_n7",
+      "name": "Rubik Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "rubik_n7.woff",
+        "woff2": "rubik_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Rubik",
+      "handle": "rubik_i7",
+      "name": "Rubik Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "rubik_i7.woff",
+        "woff2": "rubik_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Rubik",
+      "handle": "rubik_n9",
+      "name": "Rubik Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "rubik_n9.woff",
+        "woff2": "rubik_n9.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Rubik",
+      "handle": "rubik_i9",
+      "name": "Rubik Black Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "900",
+      "urls": {
+        "woff": "rubik_i9.woff",
+        "woff2": "rubik_i9.woff2"
+      }
+    }
+  ]
+}

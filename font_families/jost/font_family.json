@@ -1,0 +1,241 @@
+{
+  "default_variant_handle": "jost_n4",
+  "name": "Jost",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Jost",
+      "handle": "jost_n1",
+      "name": "Jost Thin",
+      "provider": "google",
+      "style": "normal",
+      "weight": "100",
+      "urls": {
+        "woff": "jost_n1.woff",
+        "woff2": "jost_n1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Jost",
+      "handle": "jost_i1",
+      "name": "Jost Thin Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "100",
+      "urls": {
+        "woff": "jost_i1.woff",
+        "woff2": "jost_i1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Jost",
+      "handle": "jost_n2",
+      "name": "Jost Extra Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "200",
+      "urls": {
+        "woff": "jost_n2.woff",
+        "woff2": "jost_n2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Jost",
+      "handle": "jost_i2",
+      "name": "Jost Extra Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "200",
+      "urls": {
+        "woff": "jost_i2.woff",
+        "woff2": "jost_i2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Jost",
+      "handle": "jost_n3",
+      "name": "Jost Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "jost_n3.woff",
+        "woff2": "jost_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Jost",
+      "handle": "jost_i3",
+      "name": "Jost Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "jost_i3.woff",
+        "woff2": "jost_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Jost",
+      "handle": "jost_n4",
+      "name": "Jost",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "jost_n4.woff",
+        "woff2": "jost_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Jost",
+      "handle": "jost_i4",
+      "name": "Jost Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "jost_i4.woff",
+        "woff2": "jost_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Jost",
+      "handle": "jost_n5",
+      "name": "Jost Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "jost_n5.woff",
+        "woff2": "jost_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Jost",
+      "handle": "jost_i5",
+      "name": "Jost Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "jost_i5.woff",
+        "woff2": "jost_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Jost",
+      "handle": "jost_n6",
+      "name": "Jost Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "jost_n6.woff",
+        "woff2": "jost_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Jost",
+      "handle": "jost_i6",
+      "name": "Jost Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "jost_i6.woff",
+        "woff2": "jost_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Jost",
+      "handle": "jost_n7",
+      "name": "Jost Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "jost_n7.woff",
+        "woff2": "jost_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Jost",
+      "handle": "jost_i7",
+      "name": "Jost Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "jost_i7.woff",
+        "woff2": "jost_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Jost",
+      "handle": "jost_n8",
+      "name": "Jost Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "jost_n8.woff",
+        "woff2": "jost_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Jost",
+      "handle": "jost_i8",
+      "name": "Jost Extra Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "800",
+      "urls": {
+        "woff": "jost_i8.woff",
+        "woff2": "jost_i8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Jost",
+      "handle": "jost_n9",
+      "name": "Jost Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "jost_n9.woff",
+        "woff2": "jost_n9.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Jost",
+      "handle": "jost_i9",
+      "name": "Jost Black Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "900",
+      "urls": {
+        "woff": "jost_i9.woff",
+        "woff2": "jost_i9.woff2"
+      }
+    }
+  ]
+}

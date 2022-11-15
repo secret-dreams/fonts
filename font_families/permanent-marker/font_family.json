@@ -1,0 +1,20 @@
+{
+  "default_variant_handle": "permanent_marker_n4",
+  "name": "Permanent Marker",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "cursive",
+      "family": "Permanent Marker",
+      "handle": "permanent_marker_n4",
+      "name": "Permanent Marker",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "permanent_marker_n4.woff",
+        "woff2": "permanent_marker_n4.woff2"
+      }
+    }
+  ]
+}

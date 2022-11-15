@@ -1,0 +1,20 @@
+{
+  "default_variant_handle": "questrial_n4",
+  "name": "Questrial",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Questrial",
+      "handle": "questrial_n4",
+      "name": "Questrial",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "questrial_n4.woff",
+        "woff2": "questrial_n4.woff2"
+      }
+    }
+  ]
+}

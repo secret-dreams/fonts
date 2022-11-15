@@ -1,0 +1,46 @@
+{
+  "default_variant_handle": "libre_caslon_text_n4",
+  "name": "Libre Caslon Text",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "serif",
+      "family": "Libre Caslon Text",
+      "handle": "libre_caslon_text_n4",
+      "name": "Libre Caslon Text",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "libre_caslon_text_n4.woff",
+        "woff2": "libre_caslon_text_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Libre Caslon Text",
+      "handle": "libre_caslon_text_i4",
+      "name": "Libre Caslon Text Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "libre_caslon_text_i4.woff",
+        "woff2": "libre_caslon_text_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Libre Caslon Text",
+      "handle": "libre_caslon_text_n7",
+      "name": "Libre Caslon Text Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "libre_caslon_text_n7.woff",
+        "woff2": "libre_caslon_text_n7.woff2"
+      }
+    }
+  ]
+}

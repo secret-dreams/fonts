@@ -1,0 +1,85 @@
+{
+  "default_variant_handle": "playfair_display_n4",
+  "name": "Playfair Display",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "serif",
+      "family": "Playfair Display",
+      "handle": "playfair_display_n4",
+      "name": "Playfair Display",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "playfair_display_n4.woff",
+        "woff2": "playfair_display_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Playfair Display",
+      "handle": "playfair_display_i4",
+      "name": "Playfair Display Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "playfair_display_i4.woff",
+        "woff2": "playfair_display_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Playfair Display",
+      "handle": "playfair_display_n7",
+      "name": "Playfair Display Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "playfair_display_n7.woff",
+        "woff2": "playfair_display_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Playfair Display",
+      "handle": "playfair_display_i7",
+      "name": "Playfair Display Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "playfair_display_i7.woff",
+        "woff2": "playfair_display_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Playfair Display",
+      "handle": "playfair_display_n9",
+      "name": "Playfair Display Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "playfair_display_n9.woff",
+        "woff2": "playfair_display_n9.woff2"
+      }
+    },
+    {
+      "fallbacks": "serif",
+      "family": "Playfair Display",
+      "handle": "playfair_display_i9",
+      "name": "Playfair Display Black Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "900",
+      "urls": {
+        "woff": "playfair_display_i9.woff",
+        "woff2": "playfair_display_i9.woff2"
+      }
+    }
+  ]
+}

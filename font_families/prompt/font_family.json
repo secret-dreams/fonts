@@ -1,0 +1,241 @@
+{
+  "default_variant_handle": "prompt_n4",
+  "name": "Prompt",
+  "provider": "google",
+  "variants": [
+    {
+      "fallbacks": "sans-serif",
+      "family": "Prompt",
+      "handle": "prompt_n1",
+      "name": "Prompt Thin",
+      "provider": "google",
+      "style": "normal",
+      "weight": "100",
+      "urls": {
+        "woff": "prompt_n1.woff",
+        "woff2": "prompt_n1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Prompt",
+      "handle": "prompt_i1",
+      "name": "Prompt Thin Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "100",
+      "urls": {
+        "woff": "prompt_i1.woff",
+        "woff2": "prompt_i1.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Prompt",
+      "handle": "prompt_n2",
+      "name": "Prompt Extra Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "200",
+      "urls": {
+        "woff": "prompt_n2.woff",
+        "woff2": "prompt_n2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Prompt",
+      "handle": "prompt_i2",
+      "name": "Prompt Extra Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "200",
+      "urls": {
+        "woff": "prompt_i2.woff",
+        "woff2": "prompt_i2.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Prompt",
+      "handle": "prompt_n3",
+      "name": "Prompt Light",
+      "provider": "google",
+      "style": "normal",
+      "weight": "300",
+      "urls": {
+        "woff": "prompt_n3.woff",
+        "woff2": "prompt_n3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Prompt",
+      "handle": "prompt_i3",
+      "name": "Prompt Light Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "300",
+      "urls": {
+        "woff": "prompt_i3.woff",
+        "woff2": "prompt_i3.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Prompt",
+      "handle": "prompt_n4",
+      "name": "Prompt",
+      "provider": "google",
+      "style": "normal",
+      "weight": "400",
+      "urls": {
+        "woff": "prompt_n4.woff",
+        "woff2": "prompt_n4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Prompt",
+      "handle": "prompt_i4",
+      "name": "Prompt Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "400",
+      "urls": {
+        "woff": "prompt_i4.woff",
+        "woff2": "prompt_i4.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Prompt",
+      "handle": "prompt_n5",
+      "name": "Prompt Medium",
+      "provider": "google",
+      "style": "normal",
+      "weight": "500",
+      "urls": {
+        "woff": "prompt_n5.woff",
+        "woff2": "prompt_n5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Prompt",
+      "handle": "prompt_i5",
+      "name": "Prompt Medium Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "500",
+      "urls": {
+        "woff": "prompt_i5.woff",
+        "woff2": "prompt_i5.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Prompt",
+      "handle": "prompt_n6",
+      "name": "Prompt Semi Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "600",
+      "urls": {
+        "woff": "prompt_n6.woff",
+        "woff2": "prompt_n6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Prompt",
+      "handle": "prompt_i6",
+      "name": "Prompt Semi Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "600",
+      "urls": {
+        "woff": "prompt_i6.woff",
+        "woff2": "prompt_i6.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Prompt",
+      "handle": "prompt_n7",
+      "name": "Prompt Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "700",
+      "urls": {
+        "woff": "prompt_n7.woff",
+        "woff2": "prompt_n7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Prompt",
+      "handle": "prompt_i7",
+      "name": "Prompt Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "700",
+      "urls": {
+        "woff": "prompt_i7.woff",
+        "woff2": "prompt_i7.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Prompt",
+      "handle": "prompt_n8",
+      "name": "Prompt Extra Bold",
+      "provider": "google",
+      "style": "normal",
+      "weight": "800",
+      "urls": {
+        "woff": "prompt_n8.woff",
+        "woff2": "prompt_n8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Prompt",
+      "handle": "prompt_i8",
+      "name": "Prompt Extra Bold Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "800",
+      "urls": {
+        "woff": "prompt_i8.woff",
+        "woff2": "prompt_i8.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Prompt",
+      "handle": "prompt_n9",
+      "name": "Prompt Black",
+      "provider": "google",
+      "style": "normal",
+      "weight": "900",
+      "urls": {
+        "woff": "prompt_n9.woff",
+        "woff2": "prompt_n9.woff2"
+      }
+    },
+    {
+      "fallbacks": "sans-serif",
+      "family": "Prompt",
+      "handle": "prompt_i9",
+      "name": "Prompt Black Italic",
+      "provider": "google",
+      "style": "italic",
+      "weight": "900",
+      "urls": {
+        "woff": "prompt_i9.woff",
+        "woff2": "prompt_i9.woff2"
+      }
+    }
+  ]
+}
